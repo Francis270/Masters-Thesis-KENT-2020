@@ -1,0 +1,220 @@
+
+
+
+ringworm
+
+
+
+
+
+
+
+ringworm is a common fungal infection. it's not caused by worms. you can usually buy medicine from a pharmacy to make it go away.
+
+
+
+
+check if it's ringworm
+the main symptom of ringworm is a red or silver rash. the rash may be scaly, dry, swollen or itchy.ringworm can appear anywhere on the body, including the scalp (tinea capitis) and groin (jock itch).
+
+
+
+    the rash is usually ring-shaped, unless it's on your face, neck or scalp.
+  
+
+      credit: science photo library
+https://www.sciencephoto.com/media/262831/view
+
+
+
+
+
+    sometimes the rash grows, spreads or there's more than one rash.
+  
+
+      credit: dr p. marazzi/science photo library
+https://www.sciencephoto.com/media/262986/view
+
+
+
+
+
+    ringworm on the face or scalp may also cause patchy hair loss.
+  
+
+      credit: dr p. marazzi/science photo library
+https://www.sciencephoto.com/media/262834/view
+
+
+
+
+
+
+
+    other common fungal infections
+    
+
+
+
+a table of possible causes of symptoms.
+
+
+affected area
+possible condition
+
+
+
+
+nails
+fungal nail infection
+
+
+feet
+athlete's foot
+
+
+
+
+
+
+
+
+
+
+a pharmacist can help with ringworm
+speak to a pharmacist first.they can look at your rash and recommend the best antifungal medicine. this might be a cream, gel or spray depending on where the rash is.you usually need to use antifungal medicine every day for 2 weeks. it's important to finish the whole course, even if your symptoms go away.a pharmacist will tell you if they think you should see a gp.
+
+
+
+
+
+
+
+
+find a pharmacy
+
+
+
+
+
+
+
+
+
+non-urgent advice:  see a gp if:
+      
+
+
+
+
+ringworm hasn't improved after using antifungal medicine for 2 weeksyou have ringworm on your scalp – you'll often need prescription antifungal tablets and shampooyou have a weakened immune system – for example, from chemotherapy, steroids or diabetes
+
+information: 
+coronavirus update: how to contact a gpit's still important to get help from a gp if you need it. to contact your gp surgery:visit their websiteuse the nhs appcall themfind out about using the nhs during coronavirus
+
+
+
+
+
+
+
+how ringworm spreads
+ringworm is caused by a type of fungi.it can be spread through close contact with:an infected person or animalinfected objects – such as bedsheets, combs or towelsinfected soil – although this is less common
+
+information: 
+it's fine for your child to go to school or nursery once they have started treatment. let your child's teachers know they have it.
+
+
+
+
+
+how to stop ringworm spreading
+
+do
+
+
+
+
+
+start treatment as soon as possible
+
+
+
+
+
+wash towels and bedsheets regularly
+
+
+
+
+
+keep your skin clean and wash your hands after touching animals or soil
+
+
+
+
+
+regularly check your skin if you have been in contact with an infected person or animal
+
+
+
+
+
+take your pet to the vet if they might have ringworm (for example, patches of missing fur)
+
+
+
+
+don't
+
+
+
+
+
+
+do not share towels, combs and bedsheets with someone who has ringworm
+
+
+
+
+
+
+do not scratch a ringworm rash – this could spread it to other parts of your body
+
+
+
+
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 495;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 8 september 2017
+      next review due: 8 september 2020
+    
+
+
+
+

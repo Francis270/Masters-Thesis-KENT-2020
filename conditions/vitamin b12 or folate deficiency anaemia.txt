@@ -1,0 +1,115 @@
+
+
+
+
+overview
+        
+ - 
+          vitamin b12 or folate deficiency anaemia
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+complications
+
+
+
+
+
+
+
+
+
+
+vitamin b12 or b9 (commonly called folate) deficiency anaemia occurs when a lack of vitamin b12 or folate causes the body to produce abnormally large red blood cells that cannot function properly.red blood cells carry oxygen around the body using a substance called haemoglobin.anaemia is the general term for having either fewer red blood cells than normal or having an abnormally low amount of haemoglobin in each red blood cell.there are several different types of anaemia and each one has a different cause.for example, iron deficiency anaemia happens when the body does not contain enough iron.
+
+
+
+
+symptoms of vitamin b12 or folate deficiency
+vitamin b12 and folate perform several important functions in the body, including keeping the nervous system healthy.a deficiency in either of these vitamins can cause a wide range of problems, including:extreme tirednessa lack of energypins and needles (paraesthesia)a sore and red tonguemouth ulcersmuscle weaknessdisturbed visionpsychological problems, which may include depression and confusionproblems with memory, understanding and judgementsome of these problems can also happen if you have a deficiency in vitamin b12 or folate but do not have anaemia.
+
+
+
+when to see a gpsee a gp if you think you may have a vitamin b12 or folate deficiency.these conditions can often be diagnosed based on your symptoms and the results of a blood test.it's important for vitamin b12 or folate deficiency anaemia to be diagnosed and treated as soon as possible.this is because although many of the symptoms improve with treatment, some problems caused by the condition can be irreversible.
+
+
+
+
+causes of a vitamin b12 or folate deficiency
+there are a number of problems that can lead to a vitamin b12 or folate deficiency.these include:pernicious anaemia – where your immune system attacks healthy cells in your stomach, preventing your body absorbing vitamin b12 from the food you eat; this is the most common cause of vitamin b12 deficiency in the uka lack of these vitamins in your diet – this is uncommon, but can happen if you have a vegan diet, follow a fad diet or have a generally poor diet for a long timemedicine – certain medicines, including anticonvulsants and proton pump inhibitors (ppis), can affect how much of these vitamins your body absorbsboth vitamin b12 deficiency and folate deficiency are more common in older people, affecting around 1 in 10 people aged 75 or over and 1 in 20 people aged 65 to 74.
+
+
+
+
+treating vitamin b12 or folate deficiency anaemia
+most cases of vitamin b12 and folate deficiency can be easily treated with injections or tablets to replace the missing vitamins.vitamin b12 supplements are usually given by injection at first.then, depending on whether your b12 deficiency is related to your diet, you'll either require b12 tablets between meals or regular injections.these treatments may be needed for the rest of your life.folic acid tablets are used to restore folate levels. these usually need to be taken for 4 months.in some cases, improving your diet can help treat the condition and prevent it coming back.vitamin b12 is found in meat, fish, eggs, dairy products, yeast extract (such as marmite) and specially fortified foods.the best sources of folate include green vegetables, such as broccoli, brussels sprouts and peas.
+
+
+
+complications of vitamin b12 or folate deficiency anaemiaalthough it's uncommon, vitamin b12 or folate deficiency (with or without anaemia) can lead to complications, particularly if you have been deficient in vitamin b12 or folate for some time.potential complications can include:problems with the nervous systemtemporary infertilityheart conditionspregnancy complications and birth defectsadults with severe anaemia are also at risk of developing heart failure.some complications improve with appropriate treatment, but others, such as problems with the nervous system, can be permanent.
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 71;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 23 may 2019
+      next review due: 23 may 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+
+
+
+
+overview
+        
+ - 
+          hepatitis c
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+lifestyle faqs
+
+
+complications
+
+
+
+
+
+
+
+
+
+
+hepatitis c is a virus that can infect the liver. if left untreated, it can sometimes cause serious and potentially life-threatening damage to the liver over many years.but with modern treatments, it's usually possible to cure the infection, and most people with it will have a normal life expectancy.it's estimated around 215,000 people in the uk have hepatitis c.you can become infected with it if you come into contact with the blood of an infected person.
+
+
+
+information: 
+coronavirus adviceget advice about coronavirus and liver disease from the british liver trust
+
+
+
+
+
+symptoms of hepatitis c
+hepatitis c often does not have any noticeable symptoms until the liver has been significantly damaged.this means many people have the infection without realising it.when symptoms do occur, they can be mistaken for another condition.symptoms can include:flu-like symptoms, such as muscle aches and a high temperature (fever)feeling tired all the timeloss of appetitetummy (abdominal) painfeeling and being sickthe only way to know for certain if these symptoms are caused by hepatitis c is to get tested.
+
+
+
+
+how do you get hepatitis c?
+the hepatitis c virus is usually spread through blood-to-blood contact.some ways the infection can be spread include:sharing unsterilised needles – particularly needles used to inject recreational drugssharing razors or toothbrushesfrom a pregnant woman to her unborn babythrough unprotected sex – although this is very rarein the uk, most hepatitis c infections happen in people who inject drugs or have injected them in the past.it's estimated around half of those who inject drugs have the infection.
+
+
+
+getting tested for hepatitis cseek medical advice if you have persistent symptoms of hepatitis c or there's a risk you're infected, even if you do not have any symptoms.a blood test can be carried out to see if you have the infection. gps, sexual health clinics, genitourinary medicine (gum) clinics or drug treatment services all offer testing for hepatitis c.early diagnosis and treatment can help prevent or limit any damage to your liver, as well as help ensure the infection is not passed on to other people.find out more about testing for hepatitis c
+
+
+
+
+treatments for hepatitis c
+hepatitis c can be treated with medicines that stop the virus multiplying inside the body. these usually need to be taken for several weeks.until recently, most people would have taken 2 main medicines called pegylated interferon (a weekly injection) and ribavirin (a capsule or tablet).tablet-only treatments are now available.these new hepatitis c medicines have been found to make treatment more effective, are easier to tolerate, and have shorter treatment courses.they include simeprevir, sofosbuvir and daclatasvir.using the latest medications, more than 90% of people with hepatitis c may be cured.but it's important to be aware that you will not be immune to the infection and should take steps to reduce your risk of becoming infected again.
+
+
+
+complications of hepatitis cif the infection is left untreated for many years, some people with hepatitis c will develop scarring of the liver (cirrhosis). over time, this can cause the liver to stop working properly.in severe cases, life-threatening problems, such as liver failure, where the liver loses most or all of its functions, or liver cancer, can eventually develop.treating hepatitis c as early as possible can help reduce the risk of these problems happening.find out more about the complications of hepatitis c
+
+
+
+
+preventing hepatitis c
+there's no vaccine for hepatitis c, but there are ways to reduce your risk of becoming infected.these include:not sharing any drug-injecting equipment with other people – including needles and other equipment, such as syringes, spoons and filtersnot sharing razors or toothbrushes that might be contaminated with bloodthe risk of getting hepatitis c through sex is very low. but it may be higher if blood is present, such as menstrual blood or from minor bleeding during anal sex.condoms are not usually necessary to prevent hepatitis c for long-term heterosexual couples, but it's a good idea to use them when having anal sex or sex with a new partner.
+
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 693;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 21 june 2018
+      next review due: 21 june 2021
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

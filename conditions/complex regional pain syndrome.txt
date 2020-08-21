@@ -1,0 +1,95 @@
+
+
+
+
+overview
+        
+ - 
+          complex regional pain syndrome
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+
+
+
+
+
+
+
+complex regional pain syndrome (crps) is a poorly understood condition where a person experiences persistent severe and debilitating pain.although most cases of crps are triggered by an injury, the resulting pain is much more severe and long-lasting than normal.the pain usually only affects 1 limb, but it can sometimes spread to other parts of the body.the skin of the affected body part can become so sensitive that a slight touch, bump or even a change in temperature can cause intense pain.affected areas can also become swollen, stiff or undergo fluctuating changes in colour or temperature.crps often gradually improves over time. but some people with crps experience pain for many years.find out more about the symptoms of crps.
+
+
+
+when to get medical adviceyou should see a gp if you have persistent pain that's preventing you from carrying out everyday activities.diagnosing crps can be difficult because it involves having tests to rule out other possible causes.it's best to get help as soon as possible, as early treatment may help reduce your painful symptoms.find out more about diagnosing crps.
+
+
+
+causes of crpsthe cause of crps is unknown, but it's thought to be the result of the body reacting abnormally to an injury.it used to be thought that crps was a psychosomatic condition, where the symptoms are "all in the mind", but research has disproved this.find out more about the possible causes of crps.
+
+
+
+who's affectedit's difficult to estimate exactly how common crps is, as many cases may go undiagnosed or be misdiagnosed. but it's thought to be fairly uncommon.crps can affect people of any age, including children. but it tends to be more common in women who are 60 to 70 years of age.
+
+
+
+treating crpsthere's currently no cure for crps, but there are a number of treatments that can help manage the symptoms.there are 4 main types of treatment:education and self-management – being given clear information about your condition and advice on any steps you can take to help manage it yourselfphysical rehabilitation – treatment to help manage your symptoms and reduce the risk of long-term physical problems, such as physiotherapy exercisespain relief – treatments to help reduce your pain, such as anticonvulsants or antidepressantspsychological support – treatments to help you cope with the emotional impact of living with crps, such as cognitive behavioural therapy (cbt)because of the complex nature of crps, a number of different healthcare professionals will usually be involved in your care.find out more about treating crps.
+
+    var hu_webpart_id = 1;
+    var hu_comm_id = 618;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 29 april 2019
+      next review due: 29 april 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

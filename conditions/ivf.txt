@@ -1,0 +1,149 @@
+
+
+
+
+overview
+        
+ - 
+          ivf
+        
+
+
+
+contents
+
+
+overview
+
+
+availability
+
+
+getting started
+
+
+what happens
+
+
+risks
+
+
+support
+
+
+
+
+
+
+
+
+
+in vitro fertilisation (ivf) is one of several techniques available to help people with fertility problems have a baby.
+during ivf, an egg is removed from the woman's ovaries and fertilised with sperm in a laboratory. 
+the fertilised egg, called an embryo, is then returned to the woman's womb to grow and develop. 
+it can be carried out using your eggs and your partner's sperm, or eggs and sperm from donors.
+
+
+
+who can have ivf?
+the national institute for health and care excellence (nice) fertility guidelines make recommendations about who should have access to ivf treatment on the nhs in england and wales.
+these guidelines recommended that ivf should be offered to women under the age of 43 who have been trying to get pregnant through regular unprotected sex for 2 years, or who have had 12 cycles of artificial insemination.
+however, the final decision about who can have nhs-funded ivf in england is made by local clinical commissioning groups (ccgs), and their criteria may be stricter than those recommended by nice.
+if you're not eligible for nhs treatment, or you decide to pay for ivf, you can have treatment at a private clinic. costs vary, but 1 cycle of treatment may cost up to £5,000 or more.
+read more about the availability of ivf.
+
+
+
+speaking to your gp about ivf
+if you're having trouble getting pregnant, you should start by speaking to your gp. they can advise on how to improve your chances of having a baby. 
+if these measures don't work, your gp can refer you to a fertility specialist for a treatment such as ivf.
+read more about getting started with ivf.
+
+
+
+what happens during ivf
+ivf involves 6 main stages:
+
+suppressing your natural cycle – the menstrual cycle is suppressed with medication 
+boosting your egg supply – medication is used to encourage the ovaries to produce more eggs than usual 
+monitoring your progress and maturing your eggs – an ultrasound scan is carried out to check the development of the eggs, and medication is used to help them mature 
+collecting the eggs – a needle is inserted into the ovaries, via the vagina, to remove the eggs 
+fertilising the eggs – the eggs are mixed with the sperm for a few days to allow them to be fertilised 
+transferring the embryo(s) – 1 or 2 fertilised eggs (embryos) are placed into the womb 
+
+once the embryo(s) has been transferred into your womb, you'll need to wait 2 weeks before taking a pregnancy test to see if the treatment has worked.
+read more about what happens during ivf.
+
+
+
+chances of success
+the success rate of ivf depends on the age of the woman undergoing treatment, as well as the cause of the infertility (if it's known). 
+younger women are more likely to have a successful pregnancy. ivf isn't usually recommended for women over the age of 42 because the chances of a successful pregnancy are thought to be too low.
+between 2014 and 2016 the percentage of ivf treatments that resulted in a live birth was:
+
+29% for women under 35   
+23% for women aged 35 to 37   
+15% for women aged 38 to 39    
+9% for women aged 40 to 42    
+3% for women aged 43 to 44  
+2% for women aged over 44 
+
+these figures are for women using their own eggs and their partner’s sperm, using the per embryo transferred measure.
+the human fertilisation and embryo authority (hfea) has more information on in vitro fertilisation (ivf), including the latest success rates.
+maintaining a healthy weight and avoiding alcohol, smoking and caffeine during treatment may improve your chances of having a baby with ivf.
+
+
+
+what are the risks?
+ivf doesn't always result in pregnancy, and it can be both physically and emotionally demanding. you should be offered counselling to help you through the process. 
+there are also a number of health risks involved, including:
+
+side effects from the medications used during treatment, such as hot flushes and headaches
+multiple births (such as twins or triplets) – this can be dangerous for both the mother and the children 
+an ectopic pregnancy – where the embryo implants in the fallopian tubes, rather than in the womb 
+ovarian hyperstimulation syndrome (ohss) – where too many eggs develop in the ovaries 
+
+read more about support available during and after ivf and the risks of ivf.
+
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 26;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 11 june 2018
+      next review due: 11 june 2021
+    
+
+
+
+
+
+next
+:
+availability
+
+
+
+
+
+
+
+
+
+

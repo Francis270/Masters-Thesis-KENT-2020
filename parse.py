@@ -13,7 +13,10 @@ def get_list_url(subject):
 def get_content(url):
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
+    content_list = soup.find_all('main', {'nhsuk-main-wrapper'})
     content = ''
+    for item in content_list:
+        content += item.getText().lower()
     return content
 
 def get_all_content(subject):
@@ -35,8 +38,13 @@ def save_list(xlist, subject_type):
     for item in xlist:
         save(subject_type, item, xlist[item])
 
+content = get_content('https://www.nhs.uk/conditions/steroid-injections/')
+print(content)
+
+'''
 medicines = get_all_content('medicines')
 conditions = get_all_content('conditions')
 
 save_list(medicines, 'medicines')
 save_list(conditions, 'conditions')
+'''

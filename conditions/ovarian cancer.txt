@@ -1,0 +1,113 @@
+
+
+
+
+overview
+        
+ - 
+          ovarian cancer
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+living with
+
+
+
+
+
+
+
+
+
+
+ovarian cancer, or cancer of the ovaries, is one of the most common types of cancer in women.the ovaries are a pair of small organs located low in the tummy that are connected to the womb and store a woman's supply of eggs.ovarian cancer mainly affects women who have been through the menopause (usually over the age of 50), but it can sometimes affect younger women.
+
+
+
+information: 
+coronavirus adviceget advice about coronavirus and cancer:macmillan: coronavirus guidance for people with cancercancer research uk: coronavirus and cancer
+
+
+
+
+
+symptoms of ovarian cancer
+common symptoms of ovarian cancer include:feeling constantly bloateda swollen tummydiscomfort in your tummy or pelvic areafeeling full quickly when eatingneeding to pee more often than usualthe symptoms are not always easy to recognise because they're similar to those of some more common conditions, such as irritable bowel syndrome (ibs).
+
+
+
+when to see a gpsee a gp if:you have been feeling bloated, particularly more than 12 times a monthyou have other symptoms of ovarian cancer that will not go awayyou have a family history of ovarian cancer and are worried you may be at a higher risk of getting itit's unlikely you have cancer, but it's best to check. a gp can do some simple tests to see if you have it.find out more about how ovarian cancer is diagnosedif you have already seen a gp and your symptoms continue or get worse, go back to them and explain this.if you have a family history of ovarian cancer, a gp may refer you to a genetics specialist to discuss the option of genetic testing to check your ovarian cancer risk.
+
+
+causes of ovarian cancer
+the exact cause of ovarian cancer is unknown.but some things may increase a woman's risk of getting it, such as:being over the age of 50a family history of ovarian or breast cancer – this could mean you have inherited genes that increase your cancer riskhormone replacement therapy (hrt) – although any increase in cancer risk is likely to be very smallendometriosis – a condition where tissue that behaves like the lining of the womb is found outside the wombbeing overweightsmokinglack of exerciseexposure to asbestos
+
+
+
+
+treatment for ovarian cancer
+the treatment for ovarian cancer depends on things such as how far the cancer has spread and your general health.the main treatments are:surgery to remove as much of the cancer as possible – this will often involve removing both ovaries, the womb and the tubes connecting them to each other (fallopian tubes)chemotherapy – this is usually used after surgery to kill any remaining cancer cells, but is occasionally used before surgery to shrink the cancertreatment will aim to cure the cancer whenever possible. if the cancer has spread too far to be cured, the aim is to relieve symptoms and control the cancer for as long as possible.
+
+
+
+outlook for ovarian cancerthe earlier ovarian cancer is diagnosed and treated, the better the chance of a cure.but often it's not recognised until it's already spread and a cure is not possible.even after successful treatment, there's a high chance the cancer will come back within the next few years.if it does come back, it cannot usually be cured. but chemotherapy may help reduce the symptoms and keep the cancer under control for several months or years.overall, around half of women with ovarian cancer will live for at least 5 years after diagnosis, and about 1 in 3 will live at least 10 years.cancer research uk has more information about the survival statistics for ovarian cancer.
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 6;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 10 february 2020
+      next review due: 10 february 2023
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

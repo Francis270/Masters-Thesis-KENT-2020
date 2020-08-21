@@ -1,0 +1,160 @@
+
+
+
+
+overview
+        
+ - 
+          endometriosis
+        
+
+
+
+contents
+
+
+overview
+
+
+treatment
+
+
+complications
+
+
+
+
+
+
+
+
+
+
+endometriosis is a condition where tissue similar to the lining of the womb starts to grow in other places, such as the ovaries and fallopian tubes.endometriosis can affect women of any age.it's a long-term condition that can have a significant impact on your life, but there are treatments that can help.
+
+
+
+
+symptoms of endometriosis
+the symptoms of endometriosis can vary. some women are badly affected, while others might not have any noticeable symptoms.the main symptoms of endometriosis are:pain in your lower tummy or back (pelvic pain) – usually worse during your periodperiod pain that stops you doing your normal activitiespain during or after sexpain when peeing or pooing during your periodfeeling sick, constipation, diarrhoea, or blood in your pee during your perioddifficulty getting pregnantyou may also have heavy periods. you might use lots of pads or tampons, or you may bleed through your clothes.for some women, endometriosis can have a big impact on their life and may sometimes lead to feelings of depression.
+
+
+
+when to see a gpsee a gp if you have symptoms of endometriosis, especially if they're having a big impact on your life.it may help to write down your symptoms before seeing a doctor.endometriosis uk has a pain and symptoms diary (pdf, 238kb) you can use.it can be difficult to diagnose endometriosis because the symptoms can vary considerably, and many other conditions can cause similar symptoms.a gp will ask about your symptoms, and may ask to examine your tummy and vagina.they may recommend treatments if they think you have endometriosis.if these do not help, they might refer you to a specialist called a gynaecologist for some further tests, such as an ultrasound scan or laparoscopy.a laparoscopy is where a surgeon passes a thin tube through a small cut in your tummy so they can see any patches of endometriosis tissue.this is the only way to be certain you have endometriosis.
+
+
+
+
+treatments for endometriosis
+there's currently no cure for endometriosis, but there are treatments that can help ease the symptoms.treatments include:painkillers – such as ibuprofen and paracetamolhormone medicines and contraceptives – including the combined pill, the contraceptive patch, an intrauterine system (ius), and medicines called gonadotrophin-releasing hormone (gnrh) analoguessurgery to cut away patches of endometriosis tissuean operation to remove part or all of the organs affected by endometriosis – such as surgery to remove the womb (hysterectomy)your doctor will discuss the options with you. sometimes they may suggest not starting treatment immediately to see if your symptoms improve on their own.
+
+
+
+further problems caused by endometriosisone of the main complications of endometriosis is difficulty getting pregnant or not being able to get pregnant at all (infertility).surgery to remove endometriosis tissue can help improve your chances of getting pregnant, although there's no guarantee that you'll be able to get pregnant after treatment.surgery for endometriosis can also sometimes cause further problems, such as infections, bleeding or damage to affected organs.if surgery is recommended for you, talk to your surgeon about the possible risks.find out more about the complications of endometriosis
+
+
+
+living with endometriosisendometriosis can be a difficult condition to deal with, both physically and emotionally.as well as support from your doctor, you may find it helpful to contact a support group, such as endometriosis uk, for information and advice.in addition to detailed information about endometriosis, endometriosis uk has a directory of local support groups, a helpline on 0808 808 2227, and an online community for women affected by the condition.
+
+
+
+
+causes of endometriosis
+the cause of endometriosis is not known.several theories have been suggested, including:genetics – the condition tends to run in families, and affects people of certain ethnic groups more than othersretrograde menstruation – when some of the womb lining flows up through the fallopian tubes and embeds itself on the organs of the pelvis, rather than leaving the body as a perioda problem with the immune system, the body's natural defence against illness and infectionendometrium cells spreading through the body in the bloodstream or lymphatic system, a series of tubes and glands that form part of the immune systembut none of these theories fully explain why endometriosis happens.it's likely the condition is caused by a combination of different factors.
+
+
+
+
+
+    what we mean by severe pain
+    
+
+
+
+
+
+          severe pain:
+      
+
+
+always there and so bad it’s hard to think or talk
+you can’t sleep
+it’s very hard to move, get out of bed, go to the bathroom, wash or dress
+
+
+
+
+
+          moderate pain:
+      
+
+
+always there
+makes it hard to concentrate or sleep
+you can manage to get up, wash or dress
+
+
+
+
+
+          mild pain:
+      
+
+
+comes and goes
+is annoying but doesn’t stop you doing things like going to work
+
+
+
+
+
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 37;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 18 january 2019
+      next review due: 18 january 2022
+    
+
+
+
+
+
+next
+:
+treatment
+
+
+
+
+
+
+
+
+
+

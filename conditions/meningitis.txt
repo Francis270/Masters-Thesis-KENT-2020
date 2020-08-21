@@ -1,0 +1,125 @@
+
+
+
+
+overview
+        
+ - 
+          meningitis
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+treatment
+
+
+complications
+
+
+vaccination
+
+
+
+
+
+
+
+
+
+
+meningitis is an infection of the protective membranes that surround the brain and spinal cord (meninges).it can affect anyone, but is most common in babies, young children, teenagers and young adults.meningitis can be very serious if not treated quickly.it can cause life-threatening blood poisoning (septicaemia) and result in permanent damage to the brain or nerves.a number of vaccinations are available that offer some protection against meningitis.
+
+
+
+
+symptoms of meningitis
+symptoms of meningitis develop suddenly and can include:a high temperature (fever) of 38c or abovebeing sicka headachea rash that does not fade when a glass is rolled over it (but a rash will not always develop)a stiff necka dislike of bright lightsdrowsiness or unresponsivenessseizures (fits)these symptoms can appear in any order. you do not always get all the symptoms.
+
+
+
+coronavirus
+at the moment it can be hard to know what to do if your child is unwell. it's important to trust your instincts and get medical help if you need it.
+
+
+
+
+when to get medical helpyou should get medical advice as soon as possible if you're concerned that you or your child could have meningitis.trust your instincts and do not wait until a rash develops.call 999 for an ambulance or go to your nearest a&e immediately if you think you or your child might be seriously ill.call nhs 111 or your gp surgery for advice if you're not sure if it's anything serious or you think you may have been exposed to someone with meningitis.
+
+
+
+how meningitis is spreadmeningitis is usually caused by a bacterial or viral infection.bacterial meningitis is rarer but more serious than viral meningitis.infections that cause meningitis can be spread through:sneezingcoughingkissingsharing utensils, cutlery and toothbrushesmeningitis is usually caught from people who carry these viruses or bacteria in their nose or throat but are not ill themselves.it can also be caught from someone with meningitis, but this is less common.
+
+
+
+
+vaccinations against meningitis
+vaccinations offer some protection against certain causes of meningitis.these include the:meningitis b vaccine – offered to babies aged 8 weeks, followed by a second dose at 16 weeks and a booster at 1 year6-in-1 vaccine – offered to babies at 8, 12 and 16 weeks of agepneumococcal vaccine – offered to babies born before 1 january 2020 at 8 and 16 weeks and 1 year of age; babies born on or after 1 january 2020 have 2 doses at 12 weeks and 1 yearhib/menc vaccine – offered to babies at 1 year of agemmr vaccine – offered to babies at 1 year and a second dose at 3 years and 4 monthsmeningitis acwy vaccine – offered to teenagers, sixth formers and "fresher" students going to university for the first time
+
+
+
+
+treatments for meningitis
+people with suspected meningitis will usually have tests in hospital to confirm the diagnosis and check whether the condition is the result of a viral or bacterial infection.bacterial meningitis usually needs to be treated in hospital for at least a week.treatments include:antibiotics given directly into a veinfluids given directly into a veinoxygen through a face maskviral meningitis tends to get better on its own within 7 to 10 days and can often be treated at home.getting plenty of rest and taking painkillers and anti-sickness medication can help relieve the symptoms in the meantime.
+
+
+
+outlook for meningitis viral meningitis will usually get better on its own and rarely causes any long-term problems.most people with bacterial meningitis who are treated quickly will also make a full recovery, although some are left with serious long-term problems.these can include:hearing loss or vision loss, which may be partial or totalproblems with memory and concentrationrecurrent seizures (epilepsy)co-ordination, movement and balance problemsloss of limbs – amputation of affected limbs is sometimes necessaryoverall, it's estimated up to 1 in every 10 cases of bacterial meningitis is fatal.find out more about the complications of meningitis
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 13;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 8 march 2019
+      next review due: 8 march 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

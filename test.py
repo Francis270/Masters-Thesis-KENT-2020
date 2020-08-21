@@ -19,9 +19,11 @@ subjects_list = []
 '''      SUBJECT IMPORT       '''
 
 # Load all conditions and medicines looping into conditions/medicines folders
-conditions = load_files('conditions')
-medicines = load_files('medicines')
-subjects = {**conditions, **medicines}
+#conditions = load_files('conditions')
+#medicines = load_files('medicines')
+#subjects = {**conditions, **medicines}
+test = load_files('test')
+subjects = {**test}
 
 '''      SUBJECT IMPORT       '''
 
@@ -37,13 +39,17 @@ while flag == True:
     user_response = input('\tuser\t\t> ')
     user_response = user_response.lower()
     
+    stop_search = False
     for word in user_response.split(' '):
         for subject in subjects_list:
             if word == subject.split(' ')[0]:
                 if subject != curr_subject:
                     curr_subject = subject
                     print('\t[DEBUG]\t\t> new subject :' + curr_subject)
+                    stop_search = True
                     break
+        if stop_search == True:
+            break
 
     if 'bye' not in user_response:
         if curr_subject == '':

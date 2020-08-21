@@ -1,0 +1,109 @@
+
+
+
+
+overview
+        
+ - 
+          arthritis
+        
+
+
+
+contents
+
+
+overview
+
+
+living with arthritis
+
+
+
+
+
+
+
+
+
+
+arthritis is a common condition that causes pain and inflammation in a joint.in the uk, more than 10 million people have arthritis or other, similar conditions that affect the joints.arthritis affects people of all ages, including children.
+
+information: 
+coronavirus adviceif you have arthritis and you're worried about coronavirus, you can get advice about coronavirus and arthritis from versus arthritis.
+
+
+
+
+types of arthritisosteoarthritis and rheumatoid arthritis are the 2 most common types of arthritis.osteoarthritisosteoarthritis is the most common type of arthritis in the uk, affecting nearly 9 million people.it most often develops in people in their mid-40s or older.it's also more common in women and people with a family history of the condition. but it can occur at any age as a result of an injury or be associated with other joint-related conditions, such as gout or rheumatoid arthritis.osteoarthritis initially affects the smooth cartilage lining of the joint. this makes movement more difficult than usual, leading to pain and stiffness.once the cartilage lining starts to roughen and thin out, the tendons and ligaments have to work harder.this can cause swelling and the formation of bony spurs called osteophytes.severe loss of cartilage can lead to bone rubbing on bone, altering the shape of the joint and forcing the bones out of their normal position.the most commonly affected joints are those in the:handsspinekneeshipsfind out more about osteoarthritisrheumatoid arthritisin the uk, rheumatoid arthritis affects more than 400,000 people.it often starts when a person is between 40 and 50 years old. women are 3 times more likely to be affected than men.in rheumatoid arthritis, the body's immune system targets affected joints, which leads to pain and swelling. the outer covering (synovium) of the joint is the first place affected.this can then spread across the joint, leading to further swelling and a change in the joint's shape. this may cause the bone and cartilage to break down.people with rheumatoid arthritis can also develop problems with other tissues and organs in their body.find out more about rheumatoid arthritisother types of arthritis and related conditionsankylosing spondylitis – a long-term inflammatory condition that mainly affects the bones, muscles and ligaments of the spine, leading to stiffness and joints fusing together. other problems can include the swelling of tendons, eyes and large jointscervical spondylosis – also known as degenerative osteoarthritis, cervical spondylitis affects the joints and bones in the neck, which can lead to pain and stiffnessfibromyalgia – causes pain in the body's muscles, ligaments and tendonslupus – an autoimmune condition that can affect many different organs and the body's tissuesgout – a type of arthritis caused by too much uric acid in the body. this can be left in joints (usually affecting the big toe), but can develop in any joint. it causes intense pain, redness and swellingpsoriatic arthritis – an inflammatory joint condition that can affect people with psoriasisenteropathic arthritis – a form of chronic inflammatory arthritis associated with inflammatory bowel disease (ibd), the 2 main types being ulcerative colitis and crohn's disease. about 1 in 5 people with crohn's disease or ulcerative colitis will develop enteropathic arthritis. the most common areas affected by inflammation are the peripheral (limb) joints and the spinereactive arthritis – this can cause inflammation of the joints, eyes and the tube that urine passes through (urethra). it develops shortly after an infection of the bowel, genital tract or, less frequently, after a throat infectionsecondary arthritis – a type of arthritis that can develop after a joint injury and sometimes occurs many years afterwardspolymyalgia rheumatica – a condition that almost always affects people over 50 years of age, where the immune system causes muscle pain and stiffness, usually across the shoulders and tops of the legs. it can also cause joint inflammation
+
+
+
+
+symptoms of arthritis
+there are lots of different types of arthritis.the symptoms you experience will vary depending on the type you have.this is why it's important to have an accurate diagnosis if you have:joint pain, tenderness and stiffnessinflammation in and around the jointsrestricted movement of the jointswarm red skin over the affected jointweakness and muscle wasting
+
+
+
+arthritis and childrenarthritis is often associated with older people, but it can also affect children.in the uk, about 15,000 children and young people are affected by arthritis.most types of childhood arthritis are known as juvenile idiopathic arthritis (jia).jia causes pain and inflammation in 1 or more joints for at least 6 weeks.although the exact cause of jia is unknown, the symptoms often improve as a child gets older, meaning they can lead a normal life.the main types of jia are:oligo-articular jiaoligo-articular jia is the most common type of jia. it affects up to 4 joints in the body, most commonly in the knees, ankles and wrists.oligo-articular jia often goes away without causing long-term joint damage.but there's a risk that children with the condition may develop eye problems, so regular eye tests with an eyecare specialist called an ophthalmologist are recommended.polyarticular jia (polyarthritis)polyarticular jia, or polyarthritis, is the second most common type of jia and affects 5 or more joints.it can affect a child of any age and may come on suddenly or develop gradually.the symptoms of polyarticular jia are similar to the symptoms of adult rheumatoid arthritis.a child with the condition may also feel unwell and may occasionally have a high temperature of 38c or above.systemic onset jiasystemic onset jia begins with symptoms such as a fever, rash, a lack of energy and enlarged glands. later on, joints can become swollen and inflamed.like polyarticular jia, systemic onset jia can affect children of any age.enthesitis-related arthritisenthesitis-related arthritis is a type of juvenile arthritis that often affects the joints of the leg and spine, causing inflammation where the tendons attach to the bone.it can cause stiffness in the neck and lower back in the teenage years.it's also linked to a painful eye condition called acute uveitis.versus arthritis has more information about the different types of juvenile idiopathic arthritis.
+
+
+
+
+treating arthritis
+there's no cure for arthritis, but there are many treatments that can help slow it down.osteoarthritis treatments include lifestyle changes, medicines and surgery.treatment for rheumatoid arthritis aims to slow the condition's progress and minimise joint inflammation. this helps prevent joint damage.treatments include medication, physiotherapy and surgery.
+
+
+
+further information, help and supportversus arthritis provides help and support for people in the uk with arthritis, plus their families and friends.they have a free helpline you can call for further information and support on 0800 5200 520, monday to friday, 9am to 8pm.you can also look up arthritis services near where you live.find out more about living with arthritis
+
+information: 
+social care and support guideif you:need help with day-to-day living because of illness or disabilitycare for someone regularly because they're ill, elderly or disabled, including family membersour guide to care and support explains your options and where you can get support.
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 203;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 14 december 2018
+      next review due: 14 december 2021
+    
+
+
+
+
+
+next
+:
+living with arthritis
+
+
+
+
+
+
+
+
+
+

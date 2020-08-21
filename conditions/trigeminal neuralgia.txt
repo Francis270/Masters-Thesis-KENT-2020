@@ -1,0 +1,107 @@
+
+
+
+
+overview
+        
+ - 
+          trigeminal neuralgia
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+
+
+
+
+
+
+
+trigeminal neuralgia is sudden, severe facial pain. it's often described as a sharp shooting pain or like having an electric shock in the jaw, teeth or gums.it usually happens in short, unpredictable attacks that can last from a few seconds to about 2 minutes. the attacks stop as suddenly as they start. in most cases, trigeminal neuralgia affects just one side of the face, with the pain usually felt in the lower part of the face. very occasionally the pain can affect both sides of the face, although not usually at the same time.
+
+
+
+      credit: alila medical images / alamy stock photo
+https://www.alamy.com/stock-photo-the-trigeminal-nerve-49485791.html?pv=1&stamp=2&imageid=0a71da61-4377-4785-9a7a-0037708e37d6&p=178046&n=0&orientation=0&pn=1&searchtype=0&isfromsearch=1&srch=foo%3dbar%26st%3d0%26pn%3d1%26ps%3d100%26sortby%3d2%26resultview%3dsortbypopular%26npgs%3d0%26qt%3dcte7hk%26qt_raw%3dcte7hk%26lic%3d3%26mr%3d0%26pr%3d0%26ot%3d0%26creative%3d%26ag%3d0%26hc%3d0%26pc%3d%26blackwhite%3d%26cutout%3d%26tbar%3d1%26et%3d0x000000000000000000000%26vp%3d0%26loc%3d0%26imgt%3d0%26dtfr%3d%26dtto%3d%26size%3d0xff%26archive%3d1%26groupid%3d%26pseudoid%3d%26a%3d%26cdid%3d%26cdsrt%3d%26name%3d%26qn%3d%26apalib%3d%26apalic%3d%26lightbox%3d%26gname%3d%26gtype%3d%26xstx%3d0%26simid%3d%26saveqry%3d%26editorial%3d1%26nu%3d%26t%3d%26edoptin%3d%26customgeoip%3d%26cap%3d1%26cbstore%3d1%26vd%3d0%26lb%3d%26fi%3d2%26edrf%3d0%26ispremium%3d1%26flip%3d0%26pl%3d
+
+
+people with the condition may experience attacks of pain regularly for days, weeks or months at a time. in severe cases attacks may happen hundreds of times a day.it's possible for the pain to improve or even disappear altogether for several months or years at a time (remission), although these periods tend to get shorter with time.some people may then develop a more continuous aching, throbbing or burning sensation, sometimes accompanied by the sharp attacks.living with trigeminal neuralgia can be very difficult. it can have a significant impact on a person's quality of life, resulting in problems such as weight loss, isolation and depression.read more about the symptoms of trigeminal neuralgia.
+
+
+
+when to seek medical advicesee a gp if you experience frequent or persistent facial pain, particularly if standard painkillers, such as paracetamol and ibuprofen, do not help and a dentist has ruled out any dental causes.the gp will try to identify the problem by asking about your symptoms and ruling out conditions that could be responsible for your pain.however, diagnosing trigeminal neuralgia can be difficult and it can take a few years for a diagnosis to be confirmed.read more about diagnosing trigeminal neuralgia.
+
+
+
+what causes trigeminal neuralgia?trigeminal neuralgia is usually caused by compression of the trigeminal nerve. this is the nerve inside the skull that transmits sensations of pain and touch from your face, teeth and mouth to your brain.the compression of the trigeminal nerve is usually caused by a nearby blood vessel pressing on part of the nerve inside the skull.trigeminal neuralgia can also happen when the trigeminal nerve is damaged by another medical condition, such as multiple sclerosis (ms) or a tumour.the attacks of pain are usually brought on by activities that involve lightly touching the face, such as washing, eating and brushing the teeth, but they can also be triggered by wind – even a slight breeze or air conditioning – or movement of the face or head. sometimes the pain can happen without a trigger.read more about the causes of trigeminal neuralgia.
+
+
+
+who's affectedit's not clear how many people are affected by trigeminal neuralgia, but it's thought to be rare, with around 10 people in 100,000 in the uk developing it each year.trigeminal neuralgia affects more women than men, and it usually starts between the ages of 50 and 60. it's rare in adults younger than 40.
+
+
+
+treating trigeminal neuralgiatrigeminal neuralgia is usually a long-term condition and the periods of remission often get shorter over time. however, the treatments available do help most cases to some degree.an anticonvulsant medicine called carbamazepine, which is often used to treat epilepsy, is the first treatment usually recommended to treat trigeminal neuralgia. carbamazepine can relieve nerve pain by slowing down electrical impulses in the nerves and reducing their ability to transmit pain messages.carbamazepine needs to be taken several times a day to be effective, with the dose gradually increased over the course of a few days or weeks so high enough levels of the medicine can build up in your bloodstream.unless your pain becomes much better, or disappears, the medicine is usually continued for as long as necessary, which could be for many years.if you're entering a period of remission, where your pain goes away, stopping carbamazepine should always be done slowly, over days or weeks, unless a doctor tells you otherwise.if this medicine does not help you, causes too many side effects, or you're unable to take it, you may be referred to a specialist to discuss alternative medicines or surgical procedures that may help.there are a number of minor surgical procedures that can be used to treat trigeminal neuralgia – usually by damaging the nerve to stop it sending pain signals – but these are generally only effective for a few years.alternatively, your specialist may recommend having surgery to open your skull and move any blood vessels that are compressing the trigeminal nerve. research suggests this operation offers the best results for long-term pain relief, but it's a major operation and carries a risk of potentially serious complications, such as hearing loss, facial numbness or, very rarely, a stroke.read more about treating trigeminal neuralgia.
+
+
+
+post-herpetic neuralgiapost-herpetic neuralgia is a more common type of nerve pain that usually develops in an area previously affected by shingles.
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 113;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 6 august 2019
+      next review due: 6 august 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

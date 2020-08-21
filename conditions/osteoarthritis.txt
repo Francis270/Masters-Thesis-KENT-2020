@@ -1,0 +1,101 @@
+
+
+
+
+overview
+        
+ - 
+          osteoarthritis
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+treatment and support
+
+
+living with
+
+
+
+
+
+
+
+
+
+osteoarthritis is a condition that causes joints to become painful and stiff. it's the most common type of arthritis in the uk.
+
+
+
+symptoms of osteoarthritisthe main symptoms of osteoarthritis are joint pain and stiffness, and problems moving the joint. some people also have symptoms such as: - swelling - tenderness - grating or crackling sound when moving the affected jointsthe severity of osteoarthritis symptoms can vary greatly from person to person, and between different affected joints.for some people, the symptoms can be mild and may come and go. other people can experience more continuous and severe problems which make it difficult to carry out everyday activities.almost any joint can be affected by osteoarthritis, but the condition most often causes problems in the knees, hips and small joints of the hands.you should see your gp if you have persistent symptoms of osteoarthritis so they can confirm the diagnosis and prescribe any necessary treatment.read more about the symptoms of osteoarthritis.
+
+
+
+causes of osteoarthritisas part of normal life, your joints are exposed to a constant low level of damage. in most cases, your body repairs the damage itself and you do not experience any symptoms.but in osteoarthritis, the protective cartilage on the ends of your bones breaks down, causing pain, swelling and problems moving the joint. bony growths can develop, and the area can become red and swollen.the exact cause is not known, but several things are thought to increase your risk of developing osteoarthritis, including:joint injury – overusing your joint when it has not had enough time to heal after an injury or operationother conditions (secondary arthritis) – osteoarthritis can happen in joints severely damaged by a previous or existing condition, such as rheumatoid arthritis or goutage – your risk of developing the condition increases as you get older.family history – osteoarthritis may run in families, although studies have not identified a single gene responsibleobesity – being obese puts excess strain on your joints, particularly those that bear most of your weight, such as your knees and hipsbeing a woman – osteoarthristis is more common in women than men.
+
+
+
+diagnosing osteoarthritisto help determine whether you have osteoarthritis, a gp will first ask you about your symptoms and examine your joints.a gp may suspect osteoarthritis if:you're aged 45 or olderyou have joint pain that gets worse the more you use your jointsthe stiffness in your joints is not there in the mornings, or lasts less than 30 minutesif your symptoms are slightly different, this may indicate another joint condition. for example, prolonged joint stiffness in the morning can be a sign of rheumatoid arthritis.further tests – such as x-rays or blood tests – are not usually necessary, but may be used to rule out other possible causes, such as rheumatoid arthritis or a fractured bone.
+
+
+
+treating osteoarthritisosteoarthritis is a long-term condition and cannot be cured, but it doesn't necessarily get any worse over time and it can sometimes gradually improve. a number of treatments are also available to reduce the symptoms.mild symptoms can sometimes be managed with simple measures including:regular exerciselosing weight if you're overweightwearing suitable footwearusing special devices to reduce the strain on your joints during your everyday activitiesif your symptoms are more severe, you may need additional treatments such as painkillers and a structured exercise plan with a physiotherapist.in a small number of cases, where these treatments haven't helped or the damage to the joints is particularly severe, surgery may be done to repair, strengthen or replace a damaged joint.find out more about treating osteoarthritis.
+
+
+
+living with osteoarthritisas osteoarthritis is a long-term condition, it's important you receive support to help you cope with any issues such as reduced mobility, and advice on any necessary financial support.some people may find it helpful to talk to their gp or others who are living with osteoarthritis, as there may be questions or worries you want to share.find out more about living with osteoarthritis.
+
+
+
+preventing osteoarthritisit's not possible to prevent osteoarthritis altogether. however, you may be able to minimise your risk of developing the condition by avoiding injury and living a healthy lifestyle.exerciseavoid exercise that puts strain on your joints and forces them to bear an excessive load, such as running and weight training. instead, try exercises such as swimming and cycling, where the strain on your joints is more controlled.try to do at least 150 minutes of moderate aerobic activity (such as cycling or fast walking) every week, plus strength exercises on 2 or more days each week that work the major muscle groups, to keep yourself generally healthy.find out more about health and fitness, including tips on simple exercises you can do at home.postureit can also help to maintain good posture at all times and avoid staying in the same position for too long.if you work at a desk, make sure your chair is at the correct height, and take regular breaks to move around.find out more about common posture mistakes and fixes.losing weightbeing overweight or obese increases the strain on your joints and your risk of developing osteoarthritis. if you're overweight, losing weight may help lower your chances of developing the condition.use the healthy weight calculator to find out whether you're overweight or obese.find out more more about losing weight.want to know more?versus arthritis: osteoarthritis
+
+
+    window.onload = function() {
+      var widgetconfig = {
+        query: 'osteoarthritis',
+          location: '',
+          divid: 'ukctgresult',
+      }
+      ukctgwidget.render(widgetconfig);
+    };
+  
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 19 august 2019
+      next review due: 19 august 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

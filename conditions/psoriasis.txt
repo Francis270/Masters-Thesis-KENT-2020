@@ -1,0 +1,123 @@
+
+
+
+
+overview
+        
+ - 
+          psoriasis
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+treatment
+
+
+living with
+
+
+
+
+
+
+
+
+
+
+psoriasis is a skin condition that causes red, flaky, crusty patches of skin covered with silvery scales.these patches normally appear on your elbows, knees, scalp and lower back, but can appear anywhere on your body. most people are only affected with small patches. in some cases, the patches can be itchy or sore.psoriasis affects around 2% of people in the uk. it can start at any age, but most often develops in adults under 35 years old, and affects men and women equally.the severity of psoriasis varies greatly from person to person. for some it's just a minor irritation, but for others it can majorly affect their quality of life.psoriasis is a long-lasting (chronic) disease that usually involves periods when you have no symptoms or mild symptoms, followed by periods when symptoms are more severe.
+
+
+
+information: 
+coronavirus adviceget advice about coronavirus and psoriasis from the psoriasis association
+
+
+
+
+
+why it happens
+people with psoriasis have an increased production of skin cells.skin cells are normally made and replaced every 3 to 4 weeks, but in psoriasis this process only takes about 3 to 7 days.the resulting build-up of skin cells is what creates the patches associated with psoriasis.although the process is not fully understood, it's thought to be related to a problem with the immune system.the immune system is your body's defence against disease and infection, but it attacks healthy skin cells by mistake in people with psoriasis.psoriasis can run in families, although the exact role genetics plays in causing psoriasis is unclear.many people's psoriasis symptoms start or become worse because of a certain event, known as a trigger.possible triggers of psoriasis include an injury to your skin, throat infections and using certain medicines.the condition is not contagious, so it cannot be spread from person to person.
+
+
+
+how psoriasis is diagnoseda gp can often diagnose psoriasis based on the appearance of your skin.in rare cases, a small sample of skin called a biopsy will be sent to the laboratory for examination under a microscope.this determines the exact type of psoriasis and rules out other skin disorders, such as seborrhoeic dermatitis, lichen planus, lichen simplex and pityriasis rosea.you may be referred to a specialist in diagnosing and treating skin conditions (dermatologist) if your doctor is uncertain about your diagnosis, or if your condition is severe.if your doctor suspects you have psoriatic arthritis, which is sometimes a complication of psoriasis, you may be referred to a doctor who specialises in arthritis (rheumatologist).you may have blood tests to rule out other conditions, such as rheumatoid arthritis, and x-rays of the affected joints may be taken.
+
+
+
+
+treating psoriasis
+there's no cure for psoriasis, but a range of treatments can improve symptoms and the appearance of skin patches.in most cases, the first treatment used will be a topical treatment, such as vitamin d analogues or topical corticosteroids. topical treatments are creams and ointments applied to the skin.if these are not effective, or your condition is more severe, a treatment called phototherapy may be used. phototherapy involves exposing your skin to certain types of ultraviolet light.in severe cases, where the above treatments are ineffective, systemic treatments may be used. these are oral or injected medicines that work throughout the whole body.
+
+
+
+living with psoriasisalthough psoriasis is just a minor irritation for some people, it can have a significant impact on quality of life for those more severely affected.for example, some people with psoriasis have low self-esteem because of the effect the condition has on their appearance.it's also quite common to develop tenderness, pain and swelling in the joints and connective tissue. this is known as psoriatic arthritis.speak to a gp or your healthcare team if you have psoriasis and you have any concerns about your physical and mental wellbeing. they can offer advice and further treatment if necessary.there are also support groups for people with psoriasis, such as the psoriasis association, where you can speak to other people with the condition.find out more about living with psoriasis
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    media last reviewed: 5 november 2018
+    media review due: 5 november 2021
+  
+
+
+
+further informationpsoriasis association: what is psoriasis?papaa: about psoriasis
+
+
+
+
+    window.onload = function() {
+      var widgetconfig = {
+        query: 'psoriasis',
+          location: '',
+          divid: 'ukctgresult',
+      }
+      ukctgwidget.render(widgetconfig);
+    };
+  
+
+
+
+
+      page last reviewed: 9 may 2018
+      next review due: 9 may 2021
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

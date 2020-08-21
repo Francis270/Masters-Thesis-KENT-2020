@@ -1,0 +1,72 @@
+
+
+
+pleurisy
+
+
+
+
+
+
+
+pleurisy is inflammation of the tissue between the lungs and ribcage (pleura).
+
+
+
+
+symptoms of pleurisy
+the most common symptom of pleurisy is a sharp chest pain when you breathe. you sometimes also feel pain in your shoulder.the pain may be worse when you cough, sneeze or move around. it may be relieved by taking shallow breaths.other symptoms include shortness of breath and a dry cough.
+
+
+
+when to see a gpsee a gp if you have sharp stabbing chest pains when you breathe or other symptoms of pleurisy.pleurisy can usually be diagnosed based on your symptoms.the gp will listen to your chest. a distinctive dry, crunching sound may suggest you have pleurisy.further tests may be needed to find out what's causing pleurisy and how severe it is.these tests include:blood testschest x-raysan ultrasound scana ct scana biopsy – where a small sample of pleural tissue or lung tissue is removed for further testingget immediate medical help if you have severe chest pain, particularly if you also have other symptoms, such as coughing up blood, feeling sick or sweating.
+
+
+
+
+treating pleurisy
+treatment for pleurisy usually involves relieving the pain and, in some cases, treating the underlying cause.if treated promptly, pleurisy often gets better without causing any lasting lung damage.treating chest paintaking non-steroidal anti-inflammatory drugs (nsaids), such as ibuprofen, often eases the pain.if nsaids are unsuitable for you or do not work, your doctor may prescribe another painkiller.try different positions when resting to see which one is most comfortable for you. it may seem strange, but often lying on the side of your chest that hurts helps reduce the pain.treating the underlying causeif your pleurisy is caused by a viral infection, it'll usually get better on its own after a few days.if it's caused by a bacterial infection, you'll need antibiotics. depending on the severity of your symptoms, this may be either tablets or injections.if your symptoms are particularly severe or you're already in poor health, you may need to be admitted to hospital.
+
+
+treating pleural effusionsometimes pleurisy causes a build-up of excess fluid around the lungs called pleural effusion.pleural effusion can lead to shortness of breath that gets progressively worse.this is more likely if pleurisy is caused by pulmonary embolism or a bacterial infection.if pleural effusion does not clear up as your pleurisy is treated or you're very short of breath, the fluid may need to be drained by inserting a needle or tube through the chest wall.this can be done under general anaesthetic or local anaesthetic.you may need to stay in hospital for a few days if a lot of fluid has to be drained away.
+
+
+
+
+what causes pleurisy?
+pleurisy is usually caused by a virus, such as the flu virus.less common causes include:bacterial infections, such as pneumonia or tuberculosisa blood clot in the lungs (pulmonary embolism)injury – if the ribs are bruised or fractured, the pleura can become inflamedlung cancerautoimmune conditions, such as rheumatoid arthritis and lupus
+
+
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 674;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 17 april 2020
+      next review due: 17 april 2023
+    
+
+
+
+

@@ -1,0 +1,128 @@
+
+
+
+
+overview
+        
+ - 
+          chronic obstructive pulmonary disease (copd)
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+living with
+
+
+
+
+
+
+
+
+
+chronic obstructive pulmonary disease (copd) is the name for a group of lung conditions that cause breathing difficulties.it includes:emphysema – damage to the air sacs in the lungschronic bronchitis – long-term inflammation of the airwayscopd is a common condition that mainly affects middle-aged or older adults who smoke. many people do not realise they have it.the breathing problems tend to get gradually worse over time and can limit your normal activities, although treatment can help keep the condition under control.
+
+information: 
+coronavirus adviceget advice about coronavirus and copd from the british lung foundation
+
+
+
+
+symptoms of copdthe main symptoms of copd are:increasing breathlessness, particularly when you're activea persistent chesty cough with phlegm – some people may dismiss this as just a "smoker's cough"frequent chest infectionspersistent wheezingwithout treatment, the symptoms usually get progressively worse. there may also be periods when they get suddenly worse, known as a flare-up or exacerbation.find out more about the symptoms of copd.
+
+
+
+when to get medical advicesee a gp if you have persistent symptoms of copd, particularly if you're over 35 and smoke or used to smoke.do not ignore the symptoms. if they're caused by copd, it's best to start treatment as soon as possible, before your lungs become significantly damaged.the gp will ask about your symptoms and whether you smoke or have smoked in the past. they can organise a breathing test to help diagnose copd and rule out other lung conditions, such as asthma.find out more about how copd is diagnosed.
+
+
+
+causes of copdcopd happens when the lungs become inflamed, damaged and narrowed. the main cause is smoking, although the condition can sometimes affect people who have never smoked.the likelihood of developing copd increases the more you smoke and the longer you've smoked.some cases of copd are caused by long-term exposure to harmful fumes or dust. others are the result of a rare genetic problem which means the lungs are more vulnerable to damage.find out more about the causes of copd.
+
+
+
+treatments for copdthe damage to the lungs caused by copd is permanent, but treatment can help slow down the progression of the condition.treatments include:stopping smoking – if you have copd and you smoke, this is the most important thing you can doinhalers and medicines – to help make breathing easierpulmonary rehabilitation – a specialised programme of exercise and educationsurgery or a lung transplant – although this is only an option for a very small number of peoplefind out more about how copd is treated and living with copd.
+
+
+
+outlook for copdthe outlook for copd varies from person to person. the condition cannot be cured or reversed, but for many people, treatment can help keep it under control so it does not severely limit their daily activities.but in some people, copd may continue to get worse despite treatment, eventually having a significant impact on their quality of life and leading to life-threatening problems.
+
+information: 
+social care and support guideif you:need help with day-to-day living because of illness or disabilitycare for someone regularly because they're ill, elderly or disabled – including family membersthe guide to care and support explains your options and where you can get support.
+
+
+
+
+preventing copdcopd is largely a preventable condition. you can significantly reduce your chances of developing it if you avoid smoking.if you already smoke, stopping can help prevent further damage to your lungs before it starts to cause troublesome symptoms.if you think you need help to stop smoking, you can contact nhs smokefree for free advice and support. you may also want to talk to a gp about the stop smoking treatments available.find out more about stopping smoking and where to find a stop smoking service near you.
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    media last reviewed: 9 may 2018
+    media review due: 9 may 2021
+  
+
+
+
+
+
+    window.onload = function() {
+      var widgetconfig = {
+        query: 'chronic obstructive pulmonary disease',
+          location: '',
+          divid: 'ukctgresult',
+      }
+      ukctgwidget.render(widgetconfig);
+    };
+  
+
+
+
+
+      page last reviewed: 20 september 2019
+      next review due: 20 september 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

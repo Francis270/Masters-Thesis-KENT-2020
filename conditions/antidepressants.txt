@@ -1,0 +1,121 @@
+
+
+
+
+overview
+        
+ - 
+          antidepressants
+        
+
+
+
+contents
+
+
+overview
+
+
+uses
+
+
+cautions
+
+
+dosage
+
+
+side effects
+
+
+alternatives
+
+
+
+
+
+
+
+
+
+antidepressants are a type of medicine used to treat clinical depression.they can also be used to treat a number of other conditions, including:obsessive compulsive disorder (ocd)generalised anxiety disorderpost-traumatic stress disorder (ptsd)antidepressants are also sometimes used to treat people with long-term (chronic) pain.read more about when antidepressants are used.
+
+
+
+how antidepressants workit's not known exactly how antidepressants work.it's thought they work by increasing levels of chemicals in the brain called neurotransmitters. certain neurotransmitters, such as serotonin and noradrenaline, are linked to mood and emotion.neurotransmitters may also affect pain signals sent by nerves, which may explain why some antidepressants can help relieve long-term pain.while antidepressants can treat the symptoms of depression, they do not always address its causes. this is why they're usually used in combination with therapy to treat more severe depression or other mental health conditions.
+
+
+
+how effective are antidepressants?research suggests that antidepressants can be helpful for people with moderate or severe depression.studies have shown that they're better than placebo ("dummy medicine") for people with these conditions.they're not usually recommended for mild depression, unless other treatments like therapy have not helped.the royal college of psychiatrists estimates that 50 to 65% of people treated with an antidepressant for depression will see an improvement, compared to 25 to 30% of those taking a placebo.
+
+
+
+doses and duration of treatmentantidepressants are usually taken in tablet form. when they're prescribed, you'll start on the lowest possible dose thought necessary to improve your symptoms.antidepressants usually need to be taken for 1 or 2 weeks (without missing a dose) before the benefit starts to be felt. it's important not to stop taking them if you get some mild side effects early on, as these effects usually wear off quickly.if you take an antidepressant for 4 weeks without feeling any benefit, speak to your gp or mental health specialist. they may recommend increasing your dose or trying a different medicine.a course of treatment usually lasts at least 6 months. some people with recurrent depression may be advised to take them indefinitely.read more about antidepressant doses.
+
+
+
+side effectsdifferent antidepressants can have a range of different side effects. always check the information leaflet that comes with your medicine to see what the possible side effects are.the most common side effects of antidepressants are usually mild. side effects should improve within a few days or weeks of treatment, as the body gets used to the medicine.read more about:possible side effects of antidepressantscautions and interactions of antidepressants
+
+
+coming off antidepressantstalk to your doctor before you stop taking antidepressants. it's important that you do not stop taking antidepressants suddenly.once you're ready to come off antidepressants, your doctor will probably recommend reducing your dose gradually over several weeks – or longer, if you have been taking them for a long time.this is to help prevent any withdrawal symptoms you might get as a reaction to coming off the medicine.
+
+
+
+types of antidepressantsthere are several different types of antidepressants.selective serotonin reuptake inhibitors (ssris)ssris are the most widely prescribed type of antidepressants. they're usually preferred over other antidepressants, as they cause fewer side effects. an overdose is also less likely to be serious.fluoxetine is probably the best known ssri (sold under the brand name prozac). other ssris include citalopram (cipramil), paroxetine (seroxat) and sertraline (lustral).serotonin-noradrenaline reuptake inhibitors (snris)snris are similar to ssris. they were designed to be a more effective antidepressant than ssris. however, the evidence that snris are more effective in treating depression is uncertain. it seems that some people respond better to ssris, while others respond better to snris.examples of snris include duloxetine (cymbalta and yentreve) and venlafaxine (efexor).noradrenaline and specific serotonergic antidepressants (nassas)nassas may be effective for some people who are unable to take ssris. the side effects of nassas are similar to those of ssris, but they're thought to cause fewer sexual problems. however, they may also cause more drowsiness at first.the main nassa prescribed in the uk is mirtazapine (zispin).tricyclic antidepressants (tcas)tcas are an older type of antidepressant. they're no longer usually recommended as the first treatment for depression because they can be more dangerous if an overdose is taken. they also cause more unpleasant side effects than ssris and snris.exceptions are sometimes made for people with severe depression that fail to respond to other treatments. tcas may also be recommended for other mental health conditions, such as ocd and bipolar disorder.examples of tcas include amitriptyline (tryptizol), clomipramine (anafranil), imipramine (tofranil), lofepramine (gamanil) and nortriptyline (allegron).some types of tcas, such as amitriptyline, can also be used to treat chronic nerve pain.monoamine oxidase inhibitors (maois)maois are an older type of antidepressant that are rarely used nowadays.they can cause potentially serious side effects so should only be prescribed by a specialist doctor.examples of maois include tranylcypromine, phenelzine and isocarboxazid.
+
+
+
+other treatments for depression include talking therapies such as cognitive behavioural therapy (cbt).increasingly, people with moderate to severe depression are treated using a combination of antidepressants and cbt. antidepressants work quickly in reducing symptoms, whereas cbt takes time to deal with causes of depression and ways of overcoming it.regular exercise has also been shown to be useful for those with mild depression.read more about alternatives to antidepressants.
+
+
+
+yellow card schemethe yellow card scheme allows you to report suspected side effects from any type of medicine you're taking. it's run by a medicines safety watchdog called the medicines and healthcare products regulatory agency (mhra).see the yellow card scheme website for more information.
+
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 89;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 16 august 2018
+      next review due: 16 august 2021
+    
+
+
+
+
+
+next
+:
+uses
+
+
+
+
+
+
+
+
+
+

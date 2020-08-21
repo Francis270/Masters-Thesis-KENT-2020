@@ -1,0 +1,218 @@
+
+
+
+thrush in men and women
+
+
+
+
+
+
+
+thrush is a common yeast infection that affects men and women. it's usually harmless but it can be uncomfortable and keep coming back. it is not classed as a sexually transmitted infection (sti).
+
+
+
+
+check if you have thrush
+thrush symptoms in womenwhite vaginal discharge (like cottage cheese), which does not usually smellitching and irritation around the vaginasoreness and stinging during sex or when you peethrush symptoms in menirritation, burning and redness around the head of the penis and under the foreskina white discharge (like cottage cheese)an unpleasant smelldifficulty pulling back the foreskinthrush can affect other areas of skin, such as the armpits, groin and between the fingers.this usually causes a red, itchy or painful rash that scales over with white or yellow discharge. the rash may not be so obvious on darker skin.sometimes thrush causes no symptoms at all.
+
+
+
+
+
+    see what thrush looks like on the vagina, penis and skin
+    
+
+
+
+
+
+    thrush on the penis
+  
+
+      credit: science photo library
+https://www.sciencephoto.com/media/608488/view
+
+
+
+
+
+    thrush in the vagina
+  
+
+      credit: biophoto associates/science photo library
+https://www.sciencephoto.com/media/295797/view
+
+
+
+
+
+    thrush on the skin
+  
+
+      credit: dermpics/science photo library
+https://www.sciencephoto.com/media/616916/view
+
+
+
+
+
+
+
+
+
+
+
+non-urgent advice:  see a gp or go to a sexual health clinic if:
+      
+
+
+
+
+you have the symptoms of thrush for the first timeyou're under 16 or over 60your thrush keeps coming back (more than twice in 6 months)treatment has not workedyou're pregnant or breastfeedingyou have thrush and a weakened immune system – for example, because of diabetes, hiv or chemotherapy
+
+information: 
+coronavirus update: how to contact a gpit's still important to get help from a gp if you need it. to contact your gp surgery:visit their websiteuse the nhs appcall themfind out about using the nhs during coronavirus
+
+
+
+
+information: 
+sexual health clinics can help with thrushsexual health clinics treat problems with the genitals and urine system.many sexual health clinics offer a walk-in service, where you do not need an appointment.they'll often get test results quicker than gp practices.during coronavirus, call a sexual health clinic if you need help or advice. only go to a clinic if you’ve been told to.find a sexual health clinic
+
+
+important
+it's important to get thrush in men diagnosed to rule out things like balanitis or a sexually transmitted infection (sti).
+
+what happens at your appointmentyour gp or sexual health clinic will want to confirm it's thrush and rule out other infections.you'll be asked about your symptoms.if it's not clear it's thrush:a doctor or nurse may look at your vagina or penisa cotton bud may be wiped over the discharge to test for other infections
+
+
+
+
+thrush treatment
+you'll usually need antifungal medicine to get rid of thrush. this can be a tablet you take, a tablet you insert into your vagina (pessary) or a cream to relieve the irritation.thrush should clear up within a week, after 1 dose of medicine or using the cream daily.you do not need to treat partners unless they have symptoms.recurring thrushyou might need to take treatment for longer (for up to 6 months) if you keep getting thrush (you get it more than twice in 6 months).your gp or sexual health clinic can help identify if something is causing your thrush, such as your period or sex.they'll recommend how often you should use treatment.
+
+
+
+a pharmacist can help with thrushyou can buy antifungal medicine from pharmacies if you have had thrush diagnosed in the past and you know the symptoms.a pharmacist can recommend the best treatment for you. ask if they have a private area to talk if you're embarrassed.you should not use antifungal medicine more than twice in 6 months without speaking to a pharmacist or doctor.
+
+
+
+
+
+
+find a pharmacy
+
+
+
+
+
+
+things you can do yourself to ease discomfort and prevent thrush returning
+
+do
+
+
+
+
+
+use water and emollient (like e45 cream) instead of soap to wash the affected area
+
+
+
+
+
+dry properly after washing
+
+
+
+
+
+wear cotton underwear
+
+
+
+
+
+take showers instead of baths
+
+
+
+
+
+avoid sex until thrush has cleared up – if you do have sex, use a condom to help stop it spreading
+
+
+
+
+important
+antifungal creams can damage condoms and diaphragms. this means your contraception might not work.
+
+
+don't
+
+
+
+
+
+
+do not use soaps or shower gels
+
+
+
+
+
+
+do not use douches or deodorants on your vagina or penis
+
+
+
+
+
+
+do not wear tight underwear or tights
+
+
+
+
+
+
+
+what causes thrush
+thrush is not classed as a sexually transmitted infection (sti), but it can be triggered by sex and sometimes passed on through sex.thrush is caused by a fungus called candida that is normally harmless.thrush tends to grow in warm, moist conditions and develops if the balance of bacteria changes.this can happen if:your skin is irritated or damagedyou're taking antibioticsyou have poorly controlled diabetesyou have a weakened immune system (for example, because of hiv or chemotherapy)you have been through the menopauseyou're pregnant
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 679;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 20 november 2017
+      next review due: 20 november 2020
+    
+
+
+
+

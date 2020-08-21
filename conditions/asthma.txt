@@ -1,0 +1,136 @@
+
+
+
+
+overview
+        
+ - 
+          asthma
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+living with
+
+
+asthma attacks
+
+
+
+
+
+
+
+
+
+
+asthma is a common lung condition that causes occasional breathing difficulties.it affects people of all ages and often starts in childhood, although it can also develop for the first time in adults.there's currently no cure, but there are simple treatments that can help keep the symptoms under control so it does not have a big impact on your life.
+
+
+
+information: 
+coronavirus adviceget advice about coronavirus and asthma from asthma uk
+
+
+
+
+
+symptoms of asthma
+the main symptoms of asthma are:a whistling sound when breathing (wheezing)breathlessnessa tight chest, which may feel like a band is tightening around itcoughingthe symptoms can sometimes get temporarily worse. this is known as an asthma attack.
+
+
+
+when to see a gpsee a gp if you think you or your child may have asthma.several conditions can cause similar symptoms, so it's important to get a proper diagnosis and correct treatment.the gp will usually be able to diagnose asthma by asking about symptoms and carrying out some simple tests.find out more about how asthma is diagnosed.
+
+
+
+
+treatments for asthma
+asthma is usually treated by using an inhaler, a small device that lets you breathe in medicines.the main types are:reliever inhalers – used when needed to quickly relieve asthma symptoms for a short timepreventer inhalers – used every day to prevent asthma symptoms occurringsome people also need to take tablets.
+
+
+
+
+causes and triggers
+asthma is caused by swelling (inflammation) of the breathing tubes that carry air in and out of the lungs. this makes the tubes highly sensitive, so they temporarily narrow.it may occur randomly or after exposure to a trigger.common asthma triggers include:allergies (to house dust mites, animal fur or pollen, for example)smoke, pollution and cold airexerciseinfections like colds or fluidentifying and avoiding your asthma triggers can help you keep your symptoms under control.
+
+
+
+how long does it last?asthma is a long-term condition for many people, particularly if it first develops when you're an adult.in children, it sometimes goes away or improves during the teenage years, but can come back later in life.the symptoms can usually be controlled with treatment. most people will have normal, active lives, although some with more severe asthma may have ongoing problems.
+
+
+
+complicationsalthough asthma can normally be kept under control, it's still a serious condition that can cause a number of problems.this is why it's important to follow your treatment plan and not ignore your symptoms if they're getting worse.badly controlled asthma can cause problems such as:feeling tired all the timeunderperformance at, or absence from, work or schoolstress, anxiety or depressiondisruption of your work and leisure because of unplanned visits to a gp or hospitallung infections (pneumonia)delays in growth or puberty in childrenthere's also a risk of severe asthma attacks, which can be life threatening.
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    media last reviewed: 14 may 2018
+    media review due: 9 may 2021
+  
+
+
+
+
+
+    window.onload = function() {
+      var widgetconfig = {
+        query: 'asthma',
+          location: '',
+          divid: 'ukctgresult',
+      }
+      ukctgwidget.render(widgetconfig);
+    };
+  
+
+
+
+
+      page last reviewed: 19 february 2018
+      next review due: 19 february 2021
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

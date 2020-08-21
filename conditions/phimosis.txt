@@ -1,0 +1,58 @@
+
+
+
+tight foreskin (phimosis and paraphimosis)
+
+
+
+
+
+
+phimosis is a condition where the foreskin is too tight to be pulled back over the head of the penis (glans).phimosis is normal in babies and toddlers, but in older children it may be the result of a skin condition that has caused scarring. it is not usually a problem unless it causes symptoms.immediate treatment is needed in cases where phimosis causes problems such as difficulty urinating.
+
+
+
+normal developmentmost uncircumcised baby boys have a foreskin that will not pull back (retract) because it's still attached to the glans.this is perfectly normal for about the first 2 to 6 years. by around the age of 2, the foreskin should start to separate naturally from the glans.the foreskin of some boys can take longer to separate, but this does not mean there's a problem – it'll just detach at a later stage.never try to force your child's foreskin back before it's ready because it may be painful and damage the foreskin.
+
+
+
+when phimosis is a problemphimosis is not usually a problem unless it causes symptoms such as redness, soreness or swelling.if your child's glans is sore and inflamed, they may have balanitis (inflammation of the head of the penis).there may also be a thick discharge underneath the foreskin. if both the glans and foreskin are inflamed, it's known as balanoposthitis.take your child to see a gp if they have these type of symptoms. the gp will be able to recommend appropriate treatment.most cases of balanitis can be easily managed using a combination of good hygiene, creams or ointments, and avoiding substances that irritate the penis.balanoposthitis can also sometimes be treated by following simple hygiene measures, such as keeping the penis clean by regularly washing it with water and a mild soap or moisturiser.urine can irritate the glans if it's retained for long periods under the foreskin, so if possible you should withdraw the foreskin to wash the glans.if balanoposthitis is caused by a fungal or bacterial infection, an antifungal cream or a course of antibiotics may be needed.in adults, phimosis can occasionally be associated with sexually transmitted infections (stis).it can also be caused by a number of different skin conditions, including:eczema – a long-term condition that causes the skin to become itchy, red, dry and crackedpsoriasis – a skin condition that causes red, flaky, crusty patches of skin covered with silvery scaleslichen planus – a non-infectious itchy rash that can affect many areas of the bodylichen sclerosus – a scarring condition of the foreskin (and sometimes glans) that's probably caused by urinary irritation in susceptible men and boystopical steroids (a cream, gel or ointment that contains corticosteroids) are sometimes prescribed to treat a tight foreskin. they can help soften the skin of the foreskin, making it easier to retract.phimosis can cause pain, skin splitting, or a lack of sensation during sex. using a condom and lubricants while having sex may make your penis more comfortable.when surgery may be neededsurgery may be needed if a child or adult has severe or persistent balanitis or balanoposthitis that causes their foreskin to be painfully tight.circumcision (surgically removing part or all of the foreskin) may be considered if other treatments have failed, but it carries risks such as bleeding and infection.this means it's usually only recommended as a last resort, although it can sometimes be the best and only treatment option. alternatively, surgery to release the adhesions (areas where the foreskin is stuck to the glans) may be possible. this will preserve the foreskin but may not always prevent the problem recurring.
+
+
+
+paraphimosisparaphimosis is where the foreskin cannot be returned to its original position after being retracted.it causes the glans to become painful and swollen and requires emergency medical treatment to avoid serious complications, such as increased pain, swelling and restricted blood flow to the penis.it may be possible to reduce the pain and inflammation by applying a local anaesthetic gel to the penis and pressing on the glans while pushing the foreskin forward.in difficult cases, it may be necessary to make a small slit in the foreskin to help relieve the pressure.in severe cases of paraphimosis, circumcision may be recommended. in very severe cases, a lack of blood flow to the penis can cause tissue death (gangrene) and surgical removal of the penis may be necessary.
+
+
+
+penis hygieneit's important to clean your penis regularly to avoid problems developing.you should:gently wash your penis with warm water each day while having a bath or showergently pull back your foreskin (if you have one) and wash underneath; do not pull back the foreskin of a baby or young boy because it could be painful and cause harmuse a mild or non-perfumed soap (if you choose to use soap) to reduce the risk of skin irritationavoid using talc and deodorants on your penis as they may cause irritationcircumcised men should also regularly clean their penis with warm water and a mild soap (if you choose to use soap).read more about how to keep a penis clean.
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 678;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 26 july 2018
+      next review due: 26 july 2021
+    
+
+
+
+

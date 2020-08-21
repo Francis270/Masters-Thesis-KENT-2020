@@ -1,0 +1,112 @@
+
+
+
+
+overview
+        
+ - 
+          fibromyalgia
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+self-help
+
+
+
+
+
+
+
+
+
+
+fibromyalgia, also called fibromyalgia syndrome (fms), is a long-term condition that causes pain all over the body.
+
+
+
+symptoms of fibromyalgia
+as well as widespread pain, people with fibromyalgia may also have:increased sensitivity to painextreme tiredness (fatigue)muscle stiffnessdifficulty sleepingproblems with mental processes (known as "fibro-fog"), such as problems with memory and concentrationheadachesirritable bowel syndrome (ibs), a digestive condition that causes stomach pain and bloatingif you think you have fibromyalgia, visit a gp. treatment is available to ease some of its symptoms, although they're unlikely to disappear completely.
+
+
+
+
+how fibromyalgia is treated
+although there's currently no cure for fibromyalgia, there are treatments to help relieve some of the symptoms and make the condition easier to live with.treatment tends to be a combination of:medicine, such as antidepressants and painkillerstalking therapies, such as cognitive behavioural therapy (cbt) and counsellinglifestyle changes, such as exercise programmes and relaxation techniquesexercise in particular has been found to have a number of important benefits for people with fibromyalgia, including helping to reduce pain.
+
+
+
+
+what causes fibromyalgia?
+the exact cause of fibromyalgia is unknown, but it's thought to be related to abnormal levels of certain chemicals in the brain and changes in the way the central nervous system (the brain, spinal cord and nerves) processes pain messages carried around the body.it's also suggested that some people are more likely to develop fibromyalgia because of genes inherited from their parents.in many cases, the condition appears to be triggered by a physically or emotionally stressful event, such as:an injury or infectiongiving birthhaving an operationthe breakdown of a relationshipthe death of a loved one
+
+
+
+who's affectedanyone can develop fibromyalgia, although it affects around 7 times as many women as men.the condition typically develops between the ages of 30 and 50, but can occur in people of any age, including children and the elderly.it's not clear exactly how many people are affected by fibromyalgia, although research has suggested it could be a relatively common condition.some estimates suggest nearly 1 in 20 people may be affected by fibromyalgia to some degree.one of the main reasons it's not clear how many people are affected is because fibromyalgia can be a difficult condition to diagnose.there's no specific test for the condition, and the symptoms can be similar to a number of other conditions.
+
+
+
+support groupsmany people with fibromyalgia find that support groups provide an important network where they can talk to others living with the condition.fibromyalgia action uk is a charity that offers information and support to people with fibromyalgia.if you have any questions about fibromyalgia, call the charity's helpline on 0300 999 3333.the charity also has a network of local support groups you may find helpful and an online community, where you can find out about news, events and ongoing research into the condition.another support group you may find useful is uk fibromyalgia.
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 38;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 20 february 2019
+      next review due: 20 february 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

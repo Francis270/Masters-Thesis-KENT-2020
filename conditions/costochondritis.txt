@@ -1,0 +1,82 @@
+
+
+
+costochondritis
+
+
+
+
+
+
+
+costochondritis is the medical term for inflammation of the cartilage that joins your ribs to your breastbone (sternum). this area is known as the costochondral joint.cartilage is tough but flexible connective tissue found throughout the body, including in the joints between bones.it acts as a shock absorber, cushioning the joints.costochondritis may improve on its own after a few weeks, although it can last for several months or more.the condition does not lead to any permanent problems, but may sometimes relapse.
+
+
+
+tietze's syndromecostochondritis may be confused with a separate condition called tietze's syndrome.both conditions involve inflammation of the costochondral joint and can cause very similar symptoms.but tietze's syndrome is much less common and often causes chest swelling, which may last after any pain and tenderness has gone.costochondritis also tends to affect adults aged 40 or over, whereas tietze's syndrome usually affects young adults under 40.as the conditions are very similar, most of the information below also applies to tietze's syndrome.
+
+
+
+
+signs and symptoms of costochondritis
+when the costochondral joint becomes inflamed, it can result in sharp chest pain and tenderness, which may develop gradually or start suddenly.the pain may be made worse by:a particular posture, such as lying downpressure on your chest, such as wearing a seatbelt or hugging someonedeep breathing, coughing and sneezingphysical activity
+
+
+
+when to seek medical helpit can be difficult to tell the difference between the chest pain associated with costochondritis and pain caused by more serious conditions, such as a heart attack.but a heart attack usually causes more widespread pain and additional symptoms, such as breathlessness, feeling sick and sweating.if you or someone you're with experiences sudden chest pain and you think there's a possibility it could be a heart attack, dial 999 immediately and ask for an ambulance.if you have had chest pain for a while, do not ignore it. make an appointment to see a gp so they can investigate the cause.
+
+
+
+
+causes of costochondritis
+inflammation is the body's natural response to infection, irritation or injury.it's not known exactly why the costochondral joint becomes inflamed, but in some cases it's been linked to:severe coughing, which strains your chest areaan injury to your chestphysical strain from repeated exercise or sudden exertion you're not used to, such as moving furniturean infection, including respiratory tract infections and wound infectionswear and tear – your chest moves in and out 20 to 30 times a minute, and over time this motion can lead to discomfort in these joints
+
+
+
+diagnosing costochondritisif you have symptoms of costochondritis, a gp will probably examine and touch the upper chest area around your costochondral joint.they may ask you when and where your pain occurs and look at your recent medical history.before a diagnosis can be confirmed, some tests may need to be carried out to rule out other possible causes of your chest pain.these may include:an electrocardiogram (ecg), which records the rhythms and electrical activity of your hearta blood test to check for signs of underlying inflammationa chest x-rayif no other condition is suspected or found, a diagnosis of costrochondritis may be made.
+
+
+
+self-help for costochondritis
+costochondritis can be aggravated by any activity that places stress on your chest area, such as strenuous exercise or even simple movements like reaching up to a high cupboard.any activity that makes the pain in your chest area worse should be avoided until the inflammation in your ribs and cartilage has improved.you may also find it soothing to regularly apply heat to the painful area, such as using a cloth or flannel that's been warmed with hot water.
+
+
+
+treatments for costochondritis
+painkillerspainkillers, such as paracetamol, can be used to ease mild to moderate pain.taking a type of medication called a non-steroidal anti-inflammatory drug (nsaid), such as ibuprofen and naproxen, 2 or 3 times a day can also help control the pain and swelling. aspirin is also a suitable alternative, but should not be given to children under 16 years old.these medicines are available from pharmacies without a prescription, but you should make sure you carefully read the instructions that come with them before use.nsaids are not suitable for people with certain health conditions, including:asthmastomach ulcershigh blood pressurekidney or heart problemscontact a gp if your symptoms get worse despite resting and taking painkillers, as you may benefit from treatment with corticosteroids.
+
+
+corticosteroid injectionscorticosteroids are powerful medicines that can help reduce pain and swelling.they can be injected into and around your costochondral joint to help relieve the symptoms of costochondritis.corticosteroid injections may be recommended if your pain is severe, or if nsaids are unsuitable or ineffective.they may be given by a gp, or you may need to be referred to a specialist called a rheumatologist.having too many corticosteroid injections can damage your costochondral joint, so you may only be able to have this type of treatment once every few months if you continue to experience pain.transcutaneous electrical nerve stimulation (tens)tens is a method of pain relief where a mild electric current is delivered to the affected area using a small battery-operated device. the electrical impulses can reduce the pain signals going to the spinal cord and brain, which may help relieve pain and relax muscles.they may also stimulate the production of endorphins, which are the body's natural painkillers.although tens may be used to help relieve pain in a wide range of conditions, it does not work for everyone.there's not enough good-quality scientific evidence to say for sure whether tens is a reliable method of pain relief.speak to a gp if you're considering tens.find out more about transcutaneous electrical nerve stimulation (tens)
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 226;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+
+      page last reviewed: 24 april 2019
+      next review due: 24 april 2022
+    
+
+
+
+

@@ -1,0 +1,104 @@
+
+
+
+
+overview
+        
+ - 
+          polymyalgia rheumatica
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+diagnosis
+
+
+treatment
+
+
+
+
+
+
+
+
+
+
+polymyalgia rheumatica (pmr) is a condition that causes pain, stiffness and inflammation in the muscles around the shoulders, neck and hips.
+
+
+
+information: 
+coronavirus adviceget advice about coronavirus and polymyalgia rheumatica from arthritis and musculoskeletal alliance (arma)
+
+
+
+
+
+symptoms of polymyalgia rheumatica
+the main symptom is muscle stiffness in the morning that lasts longer than 45 minutes.other symptoms may include:extreme tirednessloss of appetiteweight lossdepressionsee a gp if you have pain and stiffness for more than a week. they'll try to find out what's causing it.diagnosing polymyalgia rheumatica can be difficult because the symptoms are similar to those of many other conditions, including rheumatoid arthritis.these conditions will need to be ruled out before polymyalgia rheumatica is diagnosed.
+
+
+
+
+causes of polymyalgia rheumatica
+the cause of polymyalgia rheumatica is unknown, but a combination of genetic and environmental factors is thought to be responsible.polymyalgia rheumatica is an age-related condition. most people diagnosed with it are over 70, and it's very rare in people younger than 50. it's also more common in women than men.it's estimated 1 in every 1,200 people in the uk develop the condition every year.
+
+
+
+
+treating polymyalgia rheumatica
+a corticosteroid medicine called prednisolone is the main treatment for polymyalgia rheumatica. it's used to help relieve the symptoms.to start with, you may be prescribed a moderate dose of prednisolone, which will be gradually reduced over time.most people with polymyalgia rheumatica will need a course of corticosteroid treatment that lasts for 18 months to 2 years to prevent their symptoms returning.
+
+
+temporal arteritisup to 1 in 5 people with polymyalgia rheumatica develop a more serious condition called temporal arteritis (also known as giant cell arteritis), where the arteries in the head and neck become inflamed.symptoms of temporal arteritis include:a severe headache that develops suddenly (your scalp may also feel sore or tender)pain in the jaw muscles when eatingproblems with sight, such as double vision or loss of visionif you have any of these symptoms, contact a gp immediately, go to 111.nhs.uk, call nhs 111 or go to your nearest urgent care service.unlike polymyalgia rheumatica, temporal arteritis requires immediate medical attention. this is because it can cause permanent sight loss if not treated promptly.
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 44;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 30 december 2019
+      next review due: 30 december 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

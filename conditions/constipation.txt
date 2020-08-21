@@ -1,0 +1,125 @@
+
+
+
+constipation
+
+
+
+
+
+
+
+constipation is common and it affects people of all ages. you can usually treat it at home with simple changes to your diet and lifestyle.
+
+
+
+
+check if it's constipation
+it's likely to be constipation if:you or your child have not had a poo at least 3 times in a weekthe poo is often difficult to push out and larger than usualthe poo is often dry, hard or lumpybut it's not unusual for a breastfeeding baby to go a week without having a poo.you may also have a stomach ache and feel bloated or sick.things to look out for in babies and toddlers include:a lack of energybeing irritable, angry or unhappysoiling their clothesbeing less hungry than usuala firm tummy
+
+
+
+
+what causes constipation
+constipation in adults has many possible causes. sometimes there's no obvious reason.the most common causes include:not eating enough fibre – such as fruit, vegetables and cerealsnot drinking enough fluidsnot moving enough and spending long periods sitting or lying in bedbeing less active and not exercisingoften ignoring the urge to go to the toiletchanging your diet or daily routinea side effect of medicinestress, anxiety or depressionconstipation is also common during pregnancy and for 6 weeks after giving birth.in much rarer cases, constipation may be caused by a medical condition.
+
+
+
+how you can treat constipation yourself
+
+
+
+
+
+
+
+
+
+    
+    media last reviewed: 1 july 2020
+    media review due: 1 july 2023
+  
+
+simple changes to your diet and lifestyle can help treat constipation.it's safe to try these simple measures when you're pregnant.you may notice a difference within a few days. sometimes it takes a few weeks before your symptoms improve.make changes to your dietto make your poo softer and easier to pass:drink plenty of fluids and avoid alcoholincrease the fibre in your dietadd some wheat bran, oats or linseed to your dietimprove your toilet routinekeep to a regular time and place and give yourself plenty of time to use the toilet.do not delay if you feel the urge to poo.to make it easier to poo, try resting your feet on a low stool while going to the toilet. if possible, raise your knees above your hips.increase your activitya daily walk or run can help you poo more regularly.
+
+
+getting started with exercisegetting active with a disability or long-term conditionexercise during pregnancy
+
+
+
+babies and toddlers: what causes constipationconstipation in babies and toddlers has many possible causes. sometimes there's no obvious reason.it usually happens when your child:first starts taking formula or processed foods as a babyis being potty trained as a toddlerhas just started schoolthe most common causes include:not eating enough fibre – such as fruit, vegetables and cerealsnot drinking enough fluidspoor potty training – such as feeling pressured or being regularly interruptedin much rarer cases, constipation in babies and toddlers may be caused by a medical condition.
+
+
+babies and toddlers: treating constipationsimple changes to your child's diet and potty training can help treat constipation.you may notice a difference within a few days.sometimes it takes a few weeks before their symptoms improve.make changes to your child's dietif your baby is formula-fed, you can offer them extra drinks of water between feeds.do not add more water to formula feeds.breastfed babies rarely get constipated. they do not need anything but breast milk for the first 6 months.try gently moving your baby's legs in a bicycling motion or carefully massaging their tummy to help stimulate their bowels.give older children plenty of fluids and encourage them to eat fruit.chop or purée it if it's easier for them to eat. the best fruits for constipation include apples, grapes, pears and strawberries.do not force your child to eat as this can make mealtimes stressful.find out what to feed young children.helping your child with potty trainingsome children feel anxious or stressed about using the toilet. this can cause them to hold in their poo and lead to constipation.this usually happens during potty training or if their usual toilet routine has changed. for example, after moving house or starting nursery.give your child plenty of time to use the toilet while they're still learning.encourage them when they do use the toilet. some parents find a reward chart works.try these potty training tips.
+
+
+
+
+a pharmacist can help with constipation
+speak to a pharmacist if diet and lifestyle changes are not helping.they can suggest a suitable laxative. these are medicines that help you poo more regularly.most laxatives work within 3 days. they should only be used for a short time.laxatives are not recommended for children unless they're prescribed by a gp.
+
+
+
+
+
+
+
+
+find a pharmacy
+
+
+
+
+
+
+
+
+
+non-urgent advice:  see a gp if you or your child:
+      
+
+
+
+
+are not improving with treatmentare regularly constipated and it lasts a long timeare bloated and it lasts a long timehave blood in your poohave unexpectedly lost weight (or a child has not grown or gained weight)feel very tired all the timespeak to the gp before you stop taking any prescribed medicine.
+
+information: 
+coronavirus update: how to contact a gpit's still important to get help from a gp if you need it. to contact your gp surgery:visit their websiteuse the nhs appcall themfind out about using the nhs during coronavirus
+
+
+
+
+
+
+complications of long-term constipationlong-term constipation can lead to faecal impaction. this is where poo has built up in your rectum.the main symptom is diarrhoea after a long bout of constipation.faecal impaction may be treated with:stronger laxatives – prescribed by a gpa suppository – medicine you place in your bottoma mini enema – where fluid is passed through your bottom, into your bowela doctor removing some of the poo
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 651;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 13 august 2019
+      next review due: 13 august 2022
+    
+
+
+
+

@@ -1,0 +1,126 @@
+
+
+
+
+overview
+        
+ - 
+          chlamydia
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+diagnosis
+
+
+treatment
+
+
+complications
+
+
+
+
+
+
+
+
+
+
+chlamydia is 1 of the most common sexually transmitted infections (stis) in the uk.it's passed on through unprotected sex (sex without a condom) and is particularly common in sexually active teenagers and young adults.if you live in england, are under 25 and are sexually active, it's recommended that you get tested for chlamydia every year or when you change sexual partner.
+
+
+
+
+symptoms of chlamydia
+most people with chlamydia do not notice any symptoms and do not know they have it.if you do develop symptoms, you may experience:pain when peeingunusual discharge from the vagina, penis or bottomin women, pain in the tummy, bleeding after sex and bleeding between periodsin men, pain and swelling in the testiclesif you think you're at risk of having a sexually transmitted infection (sti) or have any symptoms of chlamydia, visit a gp, community contraceptive service or local genitourinary medicine (gum) clinic to get tested.
+
+
+
+using sexual health clinics during coronavirus
+call a sexual health clinic if you need help or advice. only go to a clinic if you've been told to.find sexual health clinic contact details
+
+
+
+
+
+how do you get chlamydia?
+chlamydia is a bacterial infection. the bacteria are usually spread through sex or contact with infected genital fluids (semen or vaginal fluid).you can get chlamydia through:unprotected vaginal, anal or oral sexsharing sex toys that are not washed or covered with a new condom each time they're usedyour genitals coming into contact with your partner's genitals – this means you can get chlamydia from someone even if there's no penetration, orgasm or ejaculationinfected semen or vaginal fluid getting into your eyeit can also be passed by a pregnant woman to her baby.find out more about the complications of chlamydiachlamydia cannot be passed on through casual contact, such as kissing and hugging, or from sharing baths, towels, swimming pools, toilet seats or cutlery.
+
+
+
+is chlamydia serious?although chlamydia does not usually cause any symptoms and can normally be treated with a short course of antibiotics, it can be serious if it's not treated early on.if left untreated, the infection can spread to other parts of your body and lead to long-term health problems, such as pelvic inflammatory disease (pid), epididymo-orchitis (inflammation of the testicles) and infertility.it can also sometimes cause reactive arthritis.this is why it's important to get tested and treated as soon as possible if you think you might have chlamydia.find out more about the complications of chlamydia
+
+
+
+getting tested for chlamydiatesting for chlamydia is done with a urine test or a swab test.you do not always need a physical examination by a nurse or doctor.anyone can get a free and confidential chlamydia test at a sexual health clinic, a genitourinary medicine (gum) clinic or a gp surgery.people under 25 years old can also get tested by the national chlamydia screening programme (ncsp).this is often in places such as pharmacies, contraception clinics or colleges. if you live in england, you're under 25 and you're sexually active, you should get tested for chlamydia every year or when you change sexual partner, as you're more likely to catch it.you can also buy chlamydia testing kits to do at home.find out more about getting a chlamydia test
+
+
+
+
+how chlamydia is treated
+chlamydia can usually be treated easily with antibiotics.you may be given some tablets to take all on 1 day, or a longer course of capsules to take for a week.you should not have sex until you and your current sexual partner have finished treatment.if you had the 1-day course of treatment, you should avoid having sex for a week afterwards.it's important that your current sexual partner and any other recent sexual partners you have had are also tested and treated to help stop the spread of the infection.under-25s who have chlamydia should be offered another test around 3 months after being treated.this is because young adults who test positive for chlamydia are at increased risk of catching it again.sexual health or genitourinary medicine (gum) clinics can help you contact your sexual partners.either you or the clinic can speak to them, or they can be sent a note advising them to get tested.the note will not have your name on it, so your confidentiality will be protected.
+
+
+
+
+preventing chlamydia
+anyone who's sexually active can catch chlamydia.you're most at risk if you have a new sexual partner or do not use a barrier method of contraception, such as a condom, when having sex.you can help to prevent the spread of chlamydia by:using a condom every time you have vaginal or anal sexusing a condom to cover the penis during oral sexusing a dam (a piece of thin, soft plastic or latex) to cover the female genitals during oral sex or when rubbing female genitals togethernot sharing sex toysif you do share sex toys, wash them or cover them with a new condom between each person who uses them.
+
+
+
+common questionsfind answers to some common questions about chlamydia:is chlamydia only caught through sexual contact?how soon do sti symptoms appear?what should i do if i think i have got an sti?are sex toys safe?what services do sexual health clinics provide?
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 645;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 4 june 2018
+      next review due: 4 june 2021
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

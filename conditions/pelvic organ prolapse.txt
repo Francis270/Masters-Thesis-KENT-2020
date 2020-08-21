@@ -1,0 +1,92 @@
+
+
+
+
+overview
+        
+ - 
+          pelvic organ prolapse
+        
+
+
+
+contents
+
+
+overview
+
+
+treatment
+
+
+
+
+
+
+
+
+
+
+pelvic organ prolapse is when 1 or more of the organs in the pelvis slip down from their normal position and bulge into the vagina.it can be the womb (uterus), bowel, bladder or top of the vagina.a prolapse is not life threatening, but it can cause pain and discomfort.symptoms can usually be improved with pelvic floor exercises and lifestyle changes, but sometimes medical treatment is needed.
+
+
+
+symptoms of pelvic organ prolapse
+pelvic organ prolapse symptoms include:a feeling of heaviness around your lower tummy and genitalsa dragging discomfort inside your vaginafeeling like there's something coming down into your vagina – it may feel like sitting on a small ballfeeling or seeing a bulge or lump in or coming out of your vaginadiscomfort or numbness during sexproblems peeing – such as feeling like your bladder is not emptying fully, needing to go to the toilet more often, or leaking a small amount of pee when you cough, sneeze or exercise (stress incontinence)sometimes pelvic organ prolapse has no symptoms and is found during an internal examination carried out for another reason, such as cervical screening.
+
+
+when to see a gpsee a gp if you have any of the symptoms of a prolapse, or if you notice a lump in or around your vagina.what happens at your appointmentyour doctor will ask if they can do an internal pelvic examination.for this you'll need to undress from the waist down and lie back on the examination bed.your doctor will then feel for any lumps in your pelvic area and inside your vagina.they may gently put an instrument called a speculum into your vagina to hold the walls of it open so they can see if there's a prolapse.sometimes they'll ask you to lie on your left-hand side and examine you in that position to get a better view of the prolapse.you can ask for this examination to be done by a female doctor and, if you like, bring someone you trust along with you for support.further testsif you have problems with your bladder, a gp may refer you to hospital for further tests.these may include:a urine test to look for an infectioninserting a small tube into your bladder to look for any problems
+
+
+
+treatment for pelvic organ prolapse
+if you do not have any symptoms, or the prolapse is mild and not bothering you, you may not need medical treatment.but making some lifestyle changes will probably still help.these include:losing weight if you're overweightavoiding heavy liftingpreventing or treating constipationif the prolapse is more severe or your symptoms are affecting your daily life, there are several further treatment options to consider.these include:pelvic floor exerciseshormone treatmentvaginal pessariessurgerythe recommended treatment will depend on the type and severity of the prolapse, your symptoms and your overall health.you and your doctor will decide together what's the best option for you.
+
+
+
+causes of pelvic organ prolapse
+pelvic organ prolapse happens when the group of muscles and tissues that normally support the pelvic organs, called the pelvic floor, becomes weakened and cannot hold the organs in place firmly.a number of things can weaken your pelvic floor and increase your chance of developing pelvic organ prolapse.these include:pregnancy and childbirth – especially if you had a long, difficult birth, or if you gave birth to a large baby or multiple babiesgetting older and going through the menopausebeing overweighthaving long-term constipation or a long-term health condition that causes you to cough and strainhaving a hysterectomya job that requires a lot of heavy liftingsome health conditions can also make a prolapse more likely, including:joint hypermobility syndromemarfan syndromeehlers-danlos syndromes
+
+
+types of prolapsethe 4 main types of prolapse are:the bladder bulging into the front wall of the vagina (anterior prolapse)the womb bulging or hanging down into the vagina (uterine prolapse)the top of the vagina sagging down – this happens to some women after they have had surgery to remove their wombthe bowel bulging forward into the back wall of the vagina (posterior wall prolapse)it's possible to have more than 1 of these at the same time.pelvic organ prolapse will usually be classified on a scale of 1 to 4 to show how severe it is, with 4 being a severe prolapse.
+
+    var hu_webpart_id = 25;
+    var hu_comm_id = 673;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 7 august 2019
+      next review due: 7 august 2022
+    
+
+
+
+
+
+next
+:
+treatment
+
+
+
+
+
+
+
+
+
+

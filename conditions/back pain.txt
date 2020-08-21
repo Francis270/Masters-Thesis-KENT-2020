@@ -1,0 +1,105 @@
+
+
+
+
+overview
+        
+ - 
+          back pain
+        
+
+
+
+contents
+
+
+overview
+
+
+causes
+
+
+treatment
+
+
+
+
+
+
+
+
+
+
+back pain is very common and usually improves within a few weeks or months.pain in the lower back (lumbago) is particularly common, although it can be felt anywhere along the spine, from the neck down to the hips.in most cases the pain is not caused by anything serious and will usually get better over time.there are things you can do to help relieve it. but sometimes the pain can last a long time or keep coming back.
+
+
+
+
+how to relieve back pain
+the following tips may help reduce your back pain and speed up your recovery:stay as active as possible and try to continue your daily activities – this is 1 of the most important things you can do, as resting for long periods is likely to make the pain worsetry exercises and stretches for back pain; other activities such as walking, swimming, yoga and pilates may also be helpfultake anti-inflammatory painkillers, such as ibuprofen – remember to check the medicine is safe for you to take and ask a pharmacist if you're not sureuse hot or cold compression packs for short-term relief – you can buy these from a pharmacy, or a hot water bottle or a bag of frozen vegetables wrapped in a cloth or towel will work just as wellalthough it can be difficult, it helps if you stay optimistic and recognise that your pain should get better. people who manage to stay positive despite their pain tend to recover quicker.
+
+
+
+getting help and adviceback pain usually gets better on its own within a few weeks or months and you may not need to see a doctor or other healthcare professional.but it's a good idea to get help if:the pain does not start to improve within a few weeksthe pain stops you doing your day-to-day activitiesthe pain is very severe or gets worse over timeyou're worried about the pain or struggling to copeif you see a gp they will ask about your symptoms, examine your back and discuss possible treatments. they may refer you to a specialist doctor or a physiotherapist for further help.alternatively, you may want to consider contacting a physiotherapist directly. some nhs physiotherapists accept appointments without a doctor's referral, or you could choose to pay for private treatment.read more about how to get access to physiotherapy.
+
+
+
+
+treatments for back pain from a specialist
+a gp, specialist or physiotherapist may recommend extra treatments if they do not think your pain will improve with self-help measures alone.these may include:group exercise classes where you're taught exercises to strengthen your muscles and improve your posturemanual therapy treatments, such as manipulating the spine and massage, which are usually done by a physiotherapist, chiropractor or osteopathpsychological support, such as cognitive behavioural therapy (cbt), which can be a useful part of treatment if you're struggling to cope with painsome people choose to see a therapist for manual therapy without seeing a gp first. if you want to do this, you'll usually need to pay for private treatment.surgery is generally only considered in the small number of cases where back pain is caused by a specific medical condition.
+
+
+
+
+causes of back pain
+it's often not possible to identify the cause of back pain. doctors call this non-specific back pain.sometimes the pain may be from an injury such as a sprain or strain, but often it happens for no apparent reason. it's very rarely caused by anything serious.occasionally back pain can be caused by a medical condition such as:a slipped (prolapsed) disc – where a disc of cartilage in the spine presses on a nearby nervesciatica – irritation of the nerve that runs from the pelvis to the feetthese conditions tend to cause additional symptoms, such as numbness, weakness or a tingling sensation, and they're treated differently from non-specific back pain.
+
+
+
+preventing back painit's difficult to prevent back pain, but the following tips may help reduce your risk:do regular back exercises and stretches – a gp or physiotherapist may be able to advise you about exercises to trystay active – doing regular exercise can help keep your back strong; adults are advised to do at least 150 minutes of exercise a weekavoid sitting for long periodstake care when lifting – read some safe lifting tipscheck your posture when sitting, using computers or tablets and watching television – find out how to sit correctly and get tips for laptop usersensure the mattress on your bed supports you properlylose weight through a combination of a healthy diet and regular exercise if you're overweight – being overweight can increase your risk of developing back pain
+
+
+
+when to get immediate medical adviceyou should contact a gp or nhs 111 immediately if you have back pain and:numbness or tingling around your genitals or buttocksdifficulty peeingloss of bladder or bowel control – peeing or pooing yourselfchest paina high temperatureunintentional weight lossa swelling or a deformity in your backit does not improve after resting or is worse at nightit started after a serious accident, such as after a car accidentthe pain is so bad you're having problems sleepingpain is made worse when sneezing, coughing or pooingthe pain is coming from the top of your back, between your shoulders, rather than your lower backthese problems could be a sign of something more serious and need to be checked urgently.
+
+
+
+can you help us?
+we are looking for people who have not been tested for coronavirus to help us improve the coronavirus (covid-19) testing service.if you're interested, take our survey
+
+
+
+    window.onload = function() {
+      var widgetconfig = {
+        query: 'back pain',
+          location: '',
+          divid: 'ukctgresult',
+      }
+      ukctgwidget.render(widgetconfig);
+    };
+  
+
+
+
+
+      page last reviewed: 14 january 2020
+      next review due: 14 january 2023
+    
+
+
+
+
+
+next
+:
+causes
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+
+
+
+
+overview
+        
+ - 
+          bowel cancer
+        
+
+
+
+contents
+
+
+overview
+
+
+symptoms
+
+
+causes
+
+
+diagnosis
+
+
+treatment
+
+
+living with
+
+
+
+
+
+
+
+
+
+bowel cancer is a general term for cancer that begins in the large bowel. depending on where the cancer starts, bowel cancer is sometimes called colon or rectal cancer.bowel cancer is one of the most common types of cancer diagnosed in the uk. most people diagnosed with it are over the age of 60.
+
+
+
+information: 
+coronavirus adviceget advice about coronavirus and cancer:macmillan: coronavirus guidance for people with cancercancer research uk: coronavirus and cancer
+
+
+
+
+symptoms of bowel cancerthe 3 main symptoms of bowel cancer are:persistent blood in your poo – that happens for no obvious reason or is associated with a change in bowel habita persistent change in your bowel habit – which is usually having to poo more and your poo may also become more runnypersistent lower abdominal (tummy) pain, bloating or discomfort – that's always caused by eating and may be associated with loss of appetite or significant unintentional weight lossmost people with these symptoms do not have bowel cancer. other health problems can cause similar symptoms. for example:blood in the poo when associated with pain or soreness is more often caused by piles (haemorrhoids)a change in bowel habit or abdominal pain is usually caused by something you've eatena change in bowel habit to going less often, with harder poo, is not usually caused by any serious condition – it may be worth trying laxatives before seeing your gpthese symptoms should be taken more seriously as you get older and when they persist despite simple treatments.read about the symptoms of bowel cancer.
+
+
+
+when to get medical advicesee your gp if you have 1 or more of the symptoms of bowel cancer and they have persisted for more than 4 weeks.your gp may decide to:examine your tummy and bottom to make sure you have no lumpsarrange for a simple blood test to check for iron deficiency anaemia – this can show whether there's any bleeding from your bowel that you have not been aware ofarrange for you to have a simple test in hospital to make sure there's no serious cause of your symptomsmake sure you see your gp if your symptoms persist or keep coming back after stopping treatment, regardless of their severity or your age. you'll probably be referred to hospital.read about diagnosing bowel cancer.
+
+
+
+causes of bowel cancerthe exact cause of bowel cancer is not known, but there are a number of things that can increase your risk, including:age – almost 9 in 10 people with bowel cancer are aged 60 or overdiet – a diet high in red or processed meats and low in fibre can increase your riskweight – bowel cancer is more common in overweight or obese peopleexercise – being inactive increases your risk of getting bowel canceralcohol – drinking alcohol might increase your risk of getting bowel cancersmoking– smoking may increase your chances of getting bowel cancerfamily history – having a close relative (mother or father, brother or sister) who developed bowel cancer under the age of 50 puts you at a greater lifetime risk of developing the condition; screening is offered to people in this situation, and you should discuss this with your gpsome people also have an increased risk of bowel cancer because they've had another condition, such as extensive ulcerative colitis or crohn's disease in the colon for more than 10 years.although there are some risks you cannot change, such as your age or family history, there are several ways you can lower your chances of developing the condition.find out more about:red meat and bowel cancer riskeating a healthy balanced dietlosing weighthealth and fitnessstopping smokingtips on cutting down on alcoholread more about the causes of bowel cancer.
+
+
+
+bowel cancer screeningto detect cases of bowel cancer sooner, the nhs offers 2 types of bowel cancer screening to adults registered with a gp in england:all men and women aged 60 to 74 are invited to carry out a fit or fob test. every 2 years, they're sent a home test kit, which is used to collect a poo sample. if you're 75 or over, you can ask for this test by calling the freephone helpline on 0800 707 60 60.an additional one-off test called bowel scope screening is gradually being introduced in england. this is offered to men and women at the age of 55. it involves a doctor or nurse looking inside the lower part of the bowel using a camera on the end of a thin, flexible tube.taking part in bowel cancer screening reduces your chances of dying from bowel cancer. removing any polyps – small growths that can develop on the inner lining of your bottom (rectum) – found in bowel scope screening can prevent cancer.however, all screening involves a balance of potential harms, as well as benefits. it's up to you to decide if you want to have it.read about bowel cancer screening, including more about what the 2 tests involve, what the different possible results mean, and the potential risks to weigh up.
+
+
+
+treatment for bowel cancerbowel cancer can be treated using a combination of different treatments, depending on where the cancer is in your bowel and how far it has spread.the main treatments are:surgery – the cancerous section of bowel is removed; it's the most effective way of curing bowel cancer and in many cases is all you needchemotherapy – where medicine is used to kill cancer cellsradiotherapy – where radiation is used to kill cancer cellstargeted therapies – a newer group of medicines that increases the effectiveness of chemotherapy and prevents the cancer spreadingas with most types of cancer, the chance of a complete cure depends on how far it's spread by the time it's diagnosed. if the cancer is confined to the bowel, surgery is usually able to completely remove it.keyhole or robotic surgery is being used more often, which allows surgery to be performed with less pain and a quicker recovery.read more about how bowel cancer is treated.
+
+
+
+living with bowel cancerbowel cancer can affect your daily life in different ways, depending on what stage it's at and the treatment you're having.how people cope with their diagnosis and treatment varies from person to person. there are several forms of support available if you need it:talk to your friends and family – they can be a powerful support systemcommunicate with other people in the same situation – for example, through bowel cancer support groupsfind out as much as possible about your conditiondo not try to do too much or overexert yourselfmake time for yourselfyou may also want advice on recovering from surgery, including diet and living with a stoma, and any financial concerns you have.if you're told there's nothing more that can be done to treat your bowel cancer, there's still support available. this is known as end of life care.read about living with bowel cancer.
+
+    var hu_webpart_id = 2;
+    var hu_comm_id = 717;
+
+    var huarr = huarr || [];
+    huarr.push(['_createwebpart', hu_webpart_id + ',' + hu_comm_id]);
+    (function () {
+      var hu = document.createelement('script');
+      hu.id = 'hu_webpartid' + hu_webpart_id;
+      hu.type = 'text/javascript'; hu.async = true;
+      hu.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.healthunlocked.com/choices.v8.js';
+      var s = document.getelementsbytagname('script')[document.getelementsbytagname('script').length - 1]; s.parentnode.insertbefore(hu, s);
+    })();
+  
+
+community content from healthunlocked
+
+
+
+
+      page last reviewed: 10 october 2019
+      next review due: 10 october 2022
+    
+
+
+
+
+
+next
+:
+symptoms
+
+
+
+
+
+
+
+
+
+

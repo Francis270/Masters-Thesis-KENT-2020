@@ -8,9 +8,10 @@ def speak(msg):
 def load_files(subject_type):
     topics = {}
     for filename in os.listdir(subject_type):
-        filename = filename.replace('.txt', '')
-        path = subject_type + '/' + filename + '.txt'
-        topics[filename] = Subject(filename, subject_type)
+        if '.txt' in filename:
+            filename = filename.replace('.txt', '')
+            path = subject_type + '/' + filename + '.txt'
+            topics[filename] = Subject(filename, subject_type)
     return topics
 
 subjects = {}
